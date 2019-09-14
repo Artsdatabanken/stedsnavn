@@ -1,0 +1,8180 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "SN": {
+      "type": "object",
+      "properties": {
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "farge": {
+          "type": "string"
+        }
+      }
+    },
+    "SN-T-T": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-H": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-SK": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-TD": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-L": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-VE": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-V": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-D": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-I": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-U": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-G": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-R": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-D": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-K": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-G": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-D": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-BS": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-G": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-N": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-I": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-V": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-L": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-N": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-SA": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-E": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-K": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-O-A": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-O-V": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-K-K": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-K-KI": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-O": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-K": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-O-A-A": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-V-A": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-V-AT": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-O-V-A": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-F-A": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-S-A": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-O-A-AA": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-K-KI-A": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-N-A": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-K-K-A": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-TD-A": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-D-A": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-F-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-SK-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-V-BV": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-S-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-S-BT": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-B-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-G-BA": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-S-BS": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-I-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-S-BA": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-R-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-H-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-U-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-B-BB": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-BS-BF": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-SA-BS": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-B-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-S-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-SA-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-G-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-S-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-V-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-BS-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-BS-BY": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-BS-BB": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-G-BF": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-G-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-G-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-N-B": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-N-C": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-S-D": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-S-DF": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-S-D": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-S-DA": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-S-E": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-F-E": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-K-E": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-G-E": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-R-E": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-L-E": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-R-ES": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-B-E": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-D-E": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-N-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-S-FS": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-I-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-S-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-S-FE": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-F-FS": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-H-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-B-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-SA-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-H-FK": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-T-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-SK-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-F-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-F-FM": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-L-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-R-FA": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-I-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-F-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-N-FO": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-K-KI-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-I-FS": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-R-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-B-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-O-A-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-U-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-N-F": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-N-FS": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-B-G": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-SA-G": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-G-G": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-TD-GS": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-G-GJ": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-K-KI-G": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-BS-G": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-O-A-GM": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-V-G": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-TD-G": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-G-G": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-G-G": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-O-A-G": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-S-GA": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-S-G": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-U-G": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-R-G": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-F-HØ": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-K-HØ": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-H-HA": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-S-H": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-S-H": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-D-H": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-F-HO": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-F-H": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-H-H": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-TD-HE": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-I-H": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-BS-HB": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-B-H": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-F-H": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-K-H": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-K-HG": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-N-H": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-TD-H": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-BS-H": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-R-H": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-H-HØ": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-F-IA": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-F-I": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-BS-I": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-S-I": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-I-I": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-N-J": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-D-J": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-S-J": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-E-K": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-S-K": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-S-KA": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-R-K": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-K-KI-K": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-G-K": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-SA-K": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-O-A-K": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-S-K": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-E-KG": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-E-KL": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-E-KS": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-S-K": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-L-L": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-T-L": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-N-LA": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-SK-L": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-R-L": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-N-L": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-V-M": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-D-M": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-I-M": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-F-M": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-S-M": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-K-KI-M": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-V-M": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-O-A-N": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-G-N": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-F-N": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-K-N": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-R-N": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-K-K-O": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-N-O": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-R-O": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-N-O": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-F-P": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-V-P": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-N-P": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-S-P": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-O-A-P": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-S-P": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-SA-R": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-S-RK": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-H-R": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-S-R": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-E-R": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-I-R": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-L-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-S-SE": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-N-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-G-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-D-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-K-K-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-D-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-N-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-F-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-S-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-F-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-G-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-G-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-VE-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-VE-SH": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-T-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-I-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-O-A-SK": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-L-SO": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-O-V-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-O-V-SF": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-F-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-S-SL": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-S-SH": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-O-A-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-O-V-SH": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-B-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-O-A-ST": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-L-ST": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-V-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-F-ST": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-K-SS": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-R-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-TD-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-S-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-F-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-K-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-I-SY": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-S-SØ": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-S-S": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-BS-TB": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-BS-TE": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-BS-TD": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-S-T": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-H-T": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-BS-T": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-U-T": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-V-T": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-SA-T": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-N-T": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-K-T": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-V-TV": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-S-U": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-I-U": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-L-U": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-D-U": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-K-K-U": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-S-U": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-V-V": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-B-I-V": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-S-V": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-N-V": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-SA-V": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-V-VK": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-V-VE": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-I-V-VS": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-O-V-V": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-T-V": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-F-V": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-K-V": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-K-VS": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-F-Ø": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-K-Ø": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-F-F-ØG": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-S-K-ØG": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-M-L-Ø": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "SN-T-H-Å": {
+      "type": "object",
+      "properties": {
+        "kodeautor": {
+          "type": "string"
+        },
+        "nivå": {
+          "type": "string"
+        },
+        "ingress": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        },
+        "tittel": {
+          "type": "object",
+          "properties": {
+            "nb": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "meta": {
+      "type": "object",
+      "properties": {
+        "tittel": {
+          "type": "string"
+        },
+        "produsertUtc": {
+          "type": "string"
+        },
+        "utgiver": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "tool": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            }
+          }
+        },
+        "elementer": {
+          "type": "number"
+        }
+      }
+    }
+  }
+}
