@@ -1,3029 +1,3334 @@
 {
-  "SN": {
-    "tittel": {
-      "nb": "Sted"
-    },
-    "nivå": "Steder",
-    "farge": "#cecece"
-  },
-  "SN-T-T": {
-    "kodeautor": "terrengområder",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver terrengoverflate over større områder."
-    },
-    "tittel": {
-      "nb": "Terrengområder"
-    }
-  },
-  "SN-T-H": {
-    "kodeautor": "høyder",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som er høyere enn andre objektyper i samme område."
-    },
-    "tittel": {
-      "nb": "Høyder"
-    }
-  },
-  "SN-T-S": {
-    "kodeautor": "senkninger",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som er senket ned i forhold til andre objekttyper i samme område."
-    },
-    "tittel": {
-      "nb": "Senkninger"
-    }
-  },
-  "SN-T-F": {
-    "kodeautor": "flater",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som flate terrengområder."
-    },
-    "tittel": {
-      "nb": "Flater"
-    }
-  },
-  "SN-T-SK": {
-    "kodeautor": "skråninger",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver hellende terreng."
-    },
-    "tittel": {
-      "nb": "Skråninger"
-    }
-  },
-  "SN-T-TD": {
-    "kodeautor": "terrengdetaljer",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver spesielle terrengdetaljer."
-    },
-    "tittel": {
-      "nb": "Terrengdetaljer"
-    }
-  },
-  "SN-M-B": {
-    "kodeautor": "bartFjell",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver overflater av bart fjell."
-    },
-    "tittel": {
-      "nb": "Bart fjell"
-    }
-  },
-  "SN-M-L": {
-    "kodeautor": "løsmasseavsetninger",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver avsetting av løse masser."
-    },
-    "tittel": {
-      "nb": "Løsmasseavsetninger"
-    }
-  },
-  "SN-M-VE": {
-    "kodeautor": "vegetasjon",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver vegetasjonen."
-    },
-    "tittel": {
-      "nb": "Vegetasjon"
-    }
-  },
-  "SN-M-V": {
-    "kodeautor": "våtmark",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver våt/fuktig mark."
-    },
-    "tittel": {
-      "nb": "Våtmark"
-    }
-  },
-  "SN-M-D": {
-    "kodeautor": "dyrkamark",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver ulike typer dyrket mark."
-    },
-    "tittel": {
-      "nb": "Dyrkamark"
-    }
-  },
-  "SN-M-I": {
-    "kodeautor": "isOgPermafrost",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som er fryst."
-    },
-    "tittel": {
-      "nb": "Is og permafrost"
-    }
-  },
-  "SN-M-U": {
-    "kodeautor": "uttakOgDeponi",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper av menneskeskapte uttak eller fyllinger."
-    },
-    "tittel": {
-      "nb": "Uttak og deponi"
-    }
-  },
-  "SN-F-S": {
-    "kodeautor": "stilleståendeVann",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper av ferskvann som ser ut til å stå stille."
-    },
-    "tittel": {
-      "nb": "Stillestående vann"
-    }
-  },
-  "SN-F-F": {
-    "kodeautor": "ferskvannskontur",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver omrisset av objekter med ferskvann."
-    },
-    "tittel": {
-      "nb": "Ferskvannskontur"
-    }
-  },
-  "SN-F-G": {
-    "kodeautor": "grunnerIFerskvann",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper under vannflaten som stikker høyere opp enn resten av området, men ikke vesentlig over vannflaten."
-    },
-    "tittel": {
-      "nb": "Grunner i ferskvann"
-    }
-  },
-  "SN-F-R": {
-    "kodeautor": "rennendeVann",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver rennenede ferskvann."
-    },
-    "tittel": {
-      "nb": "Rennende vann"
-    }
-  },
-  "SN-F-D": {
-    "kodeautor": "detaljerIFerskvann",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver detaljer i ferskvann."
-    },
-    "tittel": {
-      "nb": "Detaljer i ferskvann"
-    }
-  },
-  "SN-S-F": {
-    "kodeautor": "farvann",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver større områder av sjø."
-    },
-    "tittel": {
-      "nb": "Farvann"
-    }
-  },
-  "SN-S-K": {
-    "kodeautor": "kystkontur",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver grensa mellom sjø og tørt land."
-    },
-    "tittel": {
-      "nb": "Kystkontur"
-    }
-  },
-  "SN-S-G": {
-    "kodeautor": "grunnerISjø",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper under havflaten som stikker høyere opp enn resten av området, men ikke vesentlig over vannflaten."
-    },
-    "tittel": {
-      "nb": "Grunner i sjø"
-    }
-  },
-  "SN-S-S": {
-    "kodeautor": "sjøbunn",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver sjøbunnen."
-    },
-    "tittel": {
-      "nb": "Sjøbunn"
-    }
-  },
-  "SN-S-D": {
-    "kodeautor": "detaljISjø",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver detaljer i sjøen."
-    },
-    "tittel": {
-      "nb": "Detalj i sjø"
-    }
-  },
-  "SN-B-BS": {
-    "kodeautor": "bebyggelsesområder",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver områder med flere bygninger samlet innenfor et begrenset område."
-    },
-    "tittel": {
-      "nb": "Bebyggelsesområder"
-    }
-  },
-  "SN-B-G": {
-    "kodeautor": "gardsbebyggelse",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver områder med samling av bebyggelse som hovedsakelig er knyttet til landbruk."
-    },
-    "tittel": {
-      "nb": "Gardsbebyggelse"
-    }
-  },
-  "SN-B-B": {
-    "kodeautor": "bolighus",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver enkeltbygninger til boligformål som er bebodd midlertidig eller permanent."
-    },
-    "tittel": {
-      "nb": "Bolighus"
-    }
-  },
-  "SN-B-N": {
-    "kodeautor": "næring",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver enkeltbygninger til næringsformål."
-    },
-    "tittel": {
-      "nb": "Næring"
-    }
-  },
-  "SN-B-I": {
-    "kodeautor": "institusjoner",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver enkeltbygninger eller mindre samlinger av bygninger av institusjonell karakter."
-    },
-    "tittel": {
-      "nb": "Institusjoner"
-    }
-  },
-  "SN-B-F": {
-    "kodeautor": "fritidsanlegg",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver bygningsmessige og naturlige anlegg for rekreasjon og fritidsaktiviteter."
-    },
-    "tittel": {
-      "nb": "Fritidsanlegg"
-    }
-  },
-  "SN-I-V": {
-    "kodeautor": "veg",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver objekter som brukes til ferdsel, både motorisert og til fots."
-    },
-    "tittel": {
-      "nb": "Veg"
-    }
-  },
-  "SN-I-B": {
-    "kodeautor": "bane",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver funksjoner knyttet til skinnegående kjøretøy."
-    },
-    "tittel": {
-      "nb": "Bane"
-    }
-  },
-  "SN-I-L": {
-    "kodeautor": "luftfart",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver anlegg hvor luftfartøy lander og tar av."
-    },
-    "tittel": {
-      "nb": "Luftfart"
-    }
-  },
-  "SN-I-S": {
-    "kodeautor": "sjøfart",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver anlegg som har tilknytning til sjøfart."
-    },
-    "tittel": {
-      "nb": "Sjøfart"
-    }
-  },
-  "SN-I-N": {
-    "kodeautor": "navigasjon",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver navigasjonshjelpemidler for skipsfart."
-    },
-    "tittel": {
-      "nb": "Navigasjon"
-    }
-  },
-  "SN-I-SA": {
-    "kodeautor": "samferdselsanlegg",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver anlegg som brukes i forbindelse med transport, både for kjøretøy og til fots."
-    },
-    "tittel": {
-      "nb": "Samferdselsanlegg"
-    }
-  },
-  "SN-I-E": {
-    "kodeautor": "energi",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver anlegg for energi produksjon og transport."
-    },
-    "tittel": {
-      "nb": "Energi"
-    }
-  },
-  "SN-I-K": {
-    "kodeautor": "kommunikasjon",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver anlegg for radiokommunikasjon."
-    },
-    "tittel": {
-      "nb": "Kommunikasjon"
-    }
-  },
-  "SN-O-A": {
-    "kodeautor": "administrativeIndelinger",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver alle typer administrative inndelinger."
-    },
-    "tittel": {
-      "nb": "Administrative indelinger"
-    }
-  },
-  "SN-O-V": {
-    "kodeautor": "verne-OgBruksområder",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som regulerer vern og bruksrettigheter."
-    },
-    "tittel": {
-      "nb": "Verne- og bruksområder"
-    }
-  },
-  "SN-K-K": {
-    "kodeautor": "kulturminner",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som er vernet som kulturminner."
-    },
-    "tittel": {
-      "nb": "Kulturminner"
-    }
-  },
-  "SN-K-KI": {
-    "kodeautor": "kulturinstitusjoner",
-    "nivå": "Gruppeinndelingen av navneobjekttypene",
-    "ingress": {
-      "nb": "Samlegruppe for objekttyper som beskriver institusjoner for kulturell aktivitet."
-    },
-    "tittel": {
-      "nb": "Kulturinstitusjoner"
-    }
-  },
-  "SN-T": {
-    "kodeautor": "terreng",
-    "nivå": "Hovedgruppeinndelingen av navneobjekttyper.",
-    "ingress": {
-      "nb": "Alle grupper som beskriver terrengformasjoner. Tilsvarer Inspire temaet \"landform\"."
-    },
-    "tittel": {
-      "nb": "Terreng"
-    }
-  },
-  "SN-M": {
-    "kodeautor": "markslag",
-    "nivå": "Hovedgruppeinndelingen av navneobjekttyper.",
-    "ingress": {
-      "nb": "Alle grupper som er relevante under hovedgruppe Markslag. Tilsvarer Inspire temaet \"landcover\"."
-    },
-    "tittel": {
-      "nb": "Markslag"
-    }
-  },
-  "SN-F": {
-    "kodeautor": "ferskvann",
-    "nivå": "Hovedgruppeinndelingen av navneobjekttyper.",
-    "ingress": {
-      "nb": "Alle grupper som er relevante under hovedgruppe Ferskvann. Under Inspire temaet \"hydrography\" som vi har delt i to."
-    },
-    "tittel": {
-      "nb": "Ferskvann"
-    }
-  },
-  "SN-S": {
-    "kodeautor": "sjø",
-    "nivå": "Hovedgruppeinndelingen av navneobjekttyper.",
-    "ingress": {
-      "nb": "Alle grupper som er relevante under hovedgruppe Sjø. Under Inspire temaet \"hydrography\" som vi har delt i to."
-    },
-    "tittel": {
-      "nb": "Sjø"
-    }
-  },
-  "SN-B": {
-    "kodeautor": "bebyggelse",
-    "nivå": "Hovedgruppeinndelingen av navneobjekttyper.",
-    "ingress": {
-      "nb": "Alle grupper som er relevante under hovedgruppe bebyggelse. Tilsvarer Inspire temaet \"building\" og \"populatedPlace\"."
-    },
-    "tittel": {
-      "nb": "Bebyggelse"
-    }
-  },
-  "SN-I": {
-    "kodeautor": "infrastruktur",
-    "nivå": "Hovedgruppeinndelingen av navneobjekttyper.",
-    "ingress": {
-      "nb": "Alle grupper som er relevante under hovedgruppe infrastruktur. Tilsvarer Inspire temaet \"transportNetwork\"."
-    },
-    "tittel": {
-      "nb": "Infrastruktur"
-    }
-  },
-  "SN-O": {
-    "kodeautor": "offentligAdministrasjon",
-    "nivå": "Hovedgruppeinndelingen av navneobjekttyper.",
-    "ingress": {
-      "nb": "Alle grupper som er relevante under hovedgruppe offentlig administrasjon. Tilsvarer Inspire temaet \"administrativUnit\"."
-    },
-    "tittel": {
-      "nb": "Offentlig administrasjon"
-    }
-  },
-  "SN-K": {
-    "kodeautor": "kultur",
-    "nivå": "Hovedgruppeinndelingen av navneobjekttyper.",
-    "ingress": {
-      "nb": "Alle grupper som er relevante under hovedgruppe Kultur. Tilsvarer Inspire temaet \"protctedSite\"."
-    },
-    "tittel": {
-      "nb": "Kultur"
-    }
-  },
-  "SN-O-A-A": {
-    "kodeautor": "administrativBydel",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Offisielt navn på bydelsforvaltningen i et angitt område."
-    },
-    "tittel": {
-      "nb": "Administrativ bydel"
-    }
-  },
-  "SN-I-V-A": {
-    "kodeautor": "adressenavn",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Offisielt adressenavn, veg-/gatenavn eller områdenavn, jf. § 2 bokstav e i matrikkelforskriften."
-    },
-    "tittel": {
-      "nb": "Adressenavn"
-    }
-  },
-  "SN-I-V-AT": {
-    "kodeautor": "adressetilleggsnavn",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Et stedsnavn som er en del av den offisielle (veg-)adressen, jf. § 54 i matrikkelforskriften; vanligvis bruksnavn eller sjeldnere bygnings-/institusjonsnavn."
-    },
-    "tittel": {
-      "nb": "Adressetilleggsnavn"
-    }
-  },
-  "SN-O-V-A": {
-    "kodeautor": "allmenning",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Område hvor rettighetene er regulert og fordelt på flere."
-    },
-    "tittel": {
-      "nb": "Allmenning"
-    }
-  },
-  "SN-B-F-A": {
-    "kodeautor": "alpinanlegg",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Anlegg for slalåm, utfor, snøbrett osv."
-    },
-    "tittel": {
-      "nb": "Alpinanlegg"
-    }
-  },
-  "SN-I-S-A": {
-    "kodeautor": "ankringsplass",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Opplagsplass for store fartøy."
-    },
-    "tittel": {
-      "nb": "Ankringsplass"
-    }
-  },
-  "SN-O-A-AA": {
-    "kodeautor": "annenAdministrativInndeling",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Andre administrative inndelinger som ikke tilhører øvrige navneobjekttyper."
-    },
-    "tittel": {
-      "nb": "Annen administrativ inndeling"
-    }
-  },
-  "SN-K-KI-A": {
-    "kodeautor": "annenBygningForReligionsutøvelse",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Synagoge, moské, frikirke, menighetshus, kloster, gravkapell, bårehus, krematorium."
-    },
-    "tittel": {
-      "nb": "Annen bygning for religionsutøvelse"
-    }
-  },
-  "SN-B-N-A": {
-    "kodeautor": "annenIndustri-OgLagerbygning",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Mindre industri- og produksjonsbedrift eller lager."
-    },
-    "tittel": {
-      "nb": "Annen industri- og lagerbygning"
-    }
-  },
-  "SN-K-K-A": {
-    "kodeautor": "annenKulturdetalj",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Alle andre typer kulturdetaljer, f.eks. lekeplass, utkikkstårn, fiskeplass, og lignende."
-    },
-    "tittel": {
-      "nb": "Annen kulturdetalj"
-    }
-  },
-  "SN-T-TD-A": {
-    "kodeautor": "annenTerrengdetalj",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Små detaljer som ikke dekkes av andre navneobjekttyper innenfor kategorien."
-    },
-    "tittel": {
-      "nb": "Annen terrengdetalj"
-    }
-  },
-  "SN-F-D-A": {
-    "kodeautor": "annenVanndetalj",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Andre navngitte forhold i ferskvann."
-    },
-    "tittel": {
-      "nb": "Annen vanndetalj"
-    }
-  },
-  "SN-B-F-B": {
-    "kodeautor": "badeplass",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Offentlig eller privat badeplass."
-    },
-    "tittel": {
-      "nb": "Badeplass"
-    }
-  },
-  "SN-T-SK-B": {
-    "kodeautor": "bakke",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Terrengskråning, særlig om siden av en ås eller haug."
-    },
-    "tittel": {
-      "nb": "Bakke"
-    }
-  },
-  "SN-I-V-BV": {
-    "kodeautor": "bakkeVeg",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Allment kjent bakke på alle typer veger og gater."
-    },
-    "tittel": {
-      "nb": "Bakke (Veg)"
-    }
-  },
-  "SN-S-S-B": {
-    "kodeautor": "bakkeISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Skrånende sjøbunn."
-    },
-    "tittel": {
-      "nb": "Bakke i sjø"
-    }
-  },
-  "SN-S-S-BT": {
-    "kodeautor": "bakketoppISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Undersjøisk knaus, kolle eller haug."
-    },
-    "tittel": {
-      "nb": "Bakketopp i sjø"
-    }
-  },
-  "SN-I-B-B": {
-    "kodeautor": "banestrekning",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Jernbanestrekning, tunnelbane eller trikkelinje/-strekning."
-    },
-    "tittel": {
-      "nb": "Banestrekning"
-    }
-  },
-  "SN-F-G-BA": {
-    "kodeautor": "banke",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Flatt, større undervannsområde."
-    },
-    "tittel": {
-      "nb": "Banke"
-    }
-  },
-  "SN-S-S-BS": {
-    "kodeautor": "bankeISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Større grunt område i sjøen med dypere vann omkring; fiskegrunn."
-    },
-    "tittel": {
-      "nb": "Banke i sjø"
-    }
-  },
-  "SN-B-I-B": {
-    "kodeautor": "barnehage",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Offentlig og privat barnehage."
-    },
-    "tittel": {
-      "nb": "Barnehage"
-    }
-  },
-  "SN-S-S-BA": {
-    "kodeautor": "bassengISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Vid, undersjøisk dal."
-    },
-    "tittel": {
-      "nb": "Basseng i sjø"
-    }
-  },
-  "SN-F-R-B": {
-    "kodeautor": "bekk",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Rennende vann i naturlig vannvei, vanligvis smalere enn 3 meter."
-    },
-    "tittel": {
-      "nb": "Bekk"
-    }
-  },
-  "SN-T-H-B": {
-    "kodeautor": "berg",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Markert eller avrunda høyde med stein, steinmasse (med eller uten vegetasjon)."
-    },
-    "tittel": {
-      "nb": "Berg"
-    }
-  },
-  "SN-M-U-B": {
-    "kodeautor": "bergverk",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Gruve, skjerp og mineraluttak i dagen eller under jorda."
-    },
-    "tittel": {
-      "nb": "Bergverk"
-    }
-  },
-  "SN-B-B-BB": {
-    "kodeautor": "boligblokk",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Stort (bolig)hus av mur, betong med over fire boliger som har felles trapp(er) eller heis(er)."
-    },
-    "tittel": {
-      "nb": "Boligblokk"
-    }
-  },
-  "SN-B-BS-BF": {
-    "kodeautor": "boligfelt",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Regulert boligområde."
-    },
-    "tittel": {
-      "nb": "Boligfelt"
-    }
-  },
-  "SN-I-SA-BS": {
-    "kodeautor": "bomstasjon",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Større bomanlegg på offentlig veg."
-    },
-    "tittel": {
-      "nb": "Bomstasjon"
-    }
-  },
-  "SN-B-B-B": {
-    "kodeautor": "borettslag",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Bofellesskap i blokk eller flerbebyggelse."
-    },
-    "tittel": {
-      "nb": "Borettslag"
-    }
-  },
-  "SN-T-S-B": {
-    "kodeautor": "botn",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Innerste del av en dal; rundaktig, bratt dal eller uthulning i fjellet."
-    },
-    "tittel": {
-      "nb": "Botn"
-    }
-  },
-  "SN-I-SA-B": {
-    "kodeautor": "bru",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Både på veg og jernbane."
-    },
-    "tittel": {
-      "nb": "Bru"
-    }
-  },
-  "SN-B-G-B": {
-    "kodeautor": "bruk",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Navn på (landbruks)eiendom med ett eller flere bruksnummer under ett gardsnummer, jf. lov om stadnamn §§ 2 og 8."
-    },
-    "tittel": {
-      "nb": "Bruk"
-    }
-  },
-  "SN-I-S-B": {
-    "kodeautor": "brygge",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Mindre, fastbygd bryggeanlegg."
-    },
-    "tittel": {
-      "nb": "Brygge"
-    }
-  },
-  "SN-I-V-B": {
-    "kodeautor": "busstopp",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Stoppested for rutegående vegtrafikk."
-    },
-    "tittel": {
-      "nb": "Busstopp"
-    }
-  },
-  "SN-B-BS-B": {
-    "kodeautor": "by",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Tettbygd sted som er større og (til dels) innehar viktigere funksjoner enn andre tettbygde steder / tettsteder."
-    },
-    "tittel": {
-      "nb": "By"
-    }
-  },
-  "SN-B-BS-BY": {
-    "kodeautor": "bydel",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Kulturmessig del av by."
-    },
-    "tittel": {
-      "nb": "Bydel"
-    }
-  },
-  "SN-B-BS-BB": {
-    "kodeautor": "bygdelagBygd",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Stort, uregulert gards- og boligområde."
-    },
-    "tittel": {
-      "nb": "Bygdelag (bygd)"
-    }
-  },
-  "SN-B-G-BF": {
-    "kodeautor": "byggForJordbrukFiskeOgFangst",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Til primærnæring, f.eks. naust, uthus, sommerfjøs eller gamme."
-    },
-    "tittel": {
-      "nb": "Bygg for jordbruk, fiske og fangst"
-    }
-  },
-  "SN-F-G-B": {
-    "kodeautor": "båe",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Fjell eller stein under vannflaten."
-    },
-    "tittel": {
-      "nb": "Båe"
-    }
-  },
-  "SN-S-G-B": {
-    "kodeautor": "båeISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Spiss grunne; blindskjær som sjøen bryter over."
-    },
-    "tittel": {
-      "nb": "Båe i sjø"
-    }
-  },
-  "SN-I-N-B": {
-    "kodeautor": "båke",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Fast sjømerke. Sprinkelverk bygget i tre eller metall."
-    },
-    "tittel": {
-      "nb": "Båke"
-    }
-  },
-  "SN-B-N-C": {
-    "kodeautor": "campingplass",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Alle typer, med/uten campinghytter, campingvogner og telt."
-    },
-    "tittel": {
-      "nb": "Campingplass"
-    }
-  },
-  "SN-T-S-D": {
-    "kodeautor": "dal",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Mellomstor eller liten dal."
-    },
-    "tittel": {
-      "nb": "Dal"
-    }
-  },
-  "SN-T-S-DF": {
-    "kodeautor": "dalføre",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Stor dal med sidedaler."
-    },
-    "tittel": {
-      "nb": "Dalføre"
-    }
-  },
-  "SN-F-S-D": {
-    "kodeautor": "dam",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Vann bak oppbygd hindring, oftest i en elv, for å få jevn vannføring til fløting, til kraftverk eller for å hindre skadeflom."
-    },
-    "tittel": {
-      "nb": "Dam"
-    }
-  },
-  "SN-F-S-DA": {
-    "kodeautor": "delAvInnsjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Mindre del av innsjø."
-    },
-    "tittel": {
-      "nb": "Del av innsjø"
-    }
-  },
-  "SN-S-S-E": {
-    "kodeautor": "eggISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Undersjøisk kant mot havdyp."
-    },
-    "tittel": {
-      "nb": "Egg i sjø"
-    }
-  },
-  "SN-F-F-E": {
-    "kodeautor": "eid",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Lavt eller smalt parti mellom to vannkanter (elv eller vann)."
-    },
-    "tittel": {
-      "nb": "Eid"
-    }
-  },
-  "SN-S-K-E": {
-    "kodeautor": "eidISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Landstripe med sjø på begge sider som binder sammen to landområder."
-    },
-    "tittel": {
-      "nb": "Eid i sjø"
-    }
-  },
-  "SN-B-G-E": {
-    "kodeautor": "eiendom",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Navn på eiendom som ikke er bruksnavn, ev. felles stedsnavn for flere eiendommer."
-    },
-    "tittel": {
-      "nb": "Eiendom"
-    }
-  },
-  "SN-F-R-E": {
-    "kodeautor": "elv",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Rennende vann i naturlig vannvei, vanligvis bredere enn 3 meter."
-    },
-    "tittel": {
-      "nb": "Elv"
-    }
-  },
-  "SN-M-L-E": {
-    "kodeautor": "elvemel",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Bratt sand-/grusskråning langs elv eller vann."
-    },
-    "tittel": {
-      "nb": "Elvemel"
-    }
-  },
-  "SN-F-R-ES": {
-    "kodeautor": "elvesving",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Naturlig sving i elv eller bekk."
-    },
-    "tittel": {
-      "nb": "Elvesving"
-    }
-  },
-  "SN-B-B-E": {
-    "kodeautor": "eneboligMindreBoligbygg",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Navn på mindre eiendom for fast bosetting. Hovedsakelig eiendom hvor eier kan bestemme skrivemåten (jf. § 8 i lov om stadnamn og § 54 i matrikkelforskriften). Kan også omfatte eget navn på bygg, eller våningshus/gardsbruk som ikke er gitt eget matrikkelnummer."
-    },
-    "tittel": {
-      "nb": "Enebolig/mindre boligbygg"
-    }
-  },
-  "SN-M-D-E": {
-    "kodeautor": "eng",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Kultivert slåtte-/gressmark."
-    },
-    "tittel": {
-      "nb": "Eng"
-    }
-  },
-  "SN-B-N-F": {
-    "kodeautor": "fabrikk",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Større industrivirksomhet."
-    },
-    "tittel": {
-      "nb": "Fabrikk"
-    }
-  },
-  "SN-I-S-FS": {
-    "kodeautor": "farledSkipslei",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Allment kjent seglingslei/farvannsområde med dybdeforhold passende for skip av en viss størrelse."
-    },
-    "tittel": {
-      "nb": "Farled/skipslei"
-    }
-  },
-  "SN-B-I-F": {
-    "kodeautor": "fengsel",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Bygning der arresterte eller dømte personer soner straff."
-    },
-    "tittel": {
-      "nb": "Fengsel"
-    }
-  },
-  "SN-I-S-F": {
-    "kodeautor": "ferjekai",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Ferjekai i fast regulert ferjesamband."
-    },
-    "tittel": {
-      "nb": "Ferjekai"
-    }
-  },
-  "SN-I-S-FE": {
-    "kodeautor": "ferjestrekning",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Ferjesamband som inngår i områdets samferdselsnett."
-    },
-    "tittel": {
-      "nb": "Ferjestrekning"
-    }
-  },
-  "SN-S-F-FS": {
-    "kodeautor": "fiskeplassISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Navngitt fiskested; fiskemed."
-    },
-    "tittel": {
-      "nb": "Fiskeplass i sjø"
-    }
-  },
-  "SN-T-H-F": {
-    "kodeautor": "fjell",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Høyereliggende område (over tregrensa) med stein og sva og lite vegetasjon som reiser seg over landskapet omkring (med høye berg og nuter)."
-    },
-    "tittel": {
-      "nb": "Fjell"
-    }
-  },
-  "SN-M-B-F": {
-    "kodeautor": "fjellIDagen",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Lite/ingen vegetasjon; sva, svaberg."
-    },
-    "tittel": {
-      "nb": "Fjell i dagen"
-    }
-  },
-  "SN-I-SA-F": {
-    "kodeautor": "fjellheis",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Gondolbane og trallebane for frakt av folk."
-    },
-    "tittel": {
-      "nb": "Fjellheis"
-    }
-  },
-  "SN-T-H-FK": {
-    "kodeautor": "fjellkant",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Aksel, skulder, nese og bryn."
-    },
-    "tittel": {
-      "nb": "Fjellkant"
-    }
-  },
-  "SN-T-T-F": {
-    "kodeautor": "fjellområde",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Større område med fjell og fjellandskap."
-    },
-    "tittel": {
-      "nb": "Fjellområde"
-    }
-  },
-  "SN-T-SK-F": {
-    "kodeautor": "fjellside",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Åpent, skrånende terreng i fjellet."
-    },
-    "tittel": {
-      "nb": "Fjellside"
-    }
-  },
-  "SN-S-F-F": {
-    "kodeautor": "fjord",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Arm av havet inn i fastlandet."
-    },
-    "tittel": {
-      "nb": "Fjord"
-    }
-  },
-  "SN-S-F-FM": {
-    "kodeautor": "fjordmunning",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Område ytterst i en fjord."
-    },
-    "tittel": {
-      "nb": "Fjordmunning"
-    }
-  },
-  "SN-I-L-F": {
-    "kodeautor": "flyplass",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Offentlig godkjent, avgrenset område med start- og landingsplass for fly."
-    },
-    "tittel": {
-      "nb": "Flyplass"
-    }
-  },
-  "SN-F-R-FA": {
-    "kodeautor": "fløtningsanlegg",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Kunstig fløtningsanlegg."
-    },
-    "tittel": {
-      "nb": "Fløtningsanlegg"
-    }
-  },
-  "SN-M-I-F": {
-    "kodeautor": "fonn",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Liten snø- eller isflate som vanligvis ikke smelter om sommeren."
-    },
-    "tittel": {
-      "nb": "Fonn"
-    }
-  },
-  "SN-B-F-F": {
-    "kodeautor": "fornøyelsespark",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Store, regulerte anlegg."
-    },
-    "tittel": {
-      "nb": "Fornøyelsespark"
-    }
-  },
-  "SN-B-N-FO": {
-    "kodeautor": "forretningsbygg",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Bygning for kontor-, salg- og servicevirksomhet."
-    },
-    "tittel": {
-      "nb": "Forretningsbygg"
-    }
-  },
-  "SN-K-KI-F": {
-    "kodeautor": "forsamlingshusKulturhus",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Teater, kino, samfunnshus, grendehus o.l."
-    },
-    "tittel": {
-      "nb": "Forsamlingshus/kulturhus"
-    }
-  },
-  "SN-B-I-FS": {
-    "kodeautor": "forskningsstasjon",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Bemannet forskningsstasjon eller meteorologisk stasjon med bygningsmasse."
-    },
-    "tittel": {
-      "nb": "Forskningsstasjon"
-    }
-  },
-  "SN-F-R-F": {
-    "kodeautor": "foss",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Vann i tilnærmet fritt fall."
-    },
-    "tittel": {
-      "nb": "Foss"
-    }
-  },
-  "SN-B-B-F": {
-    "kodeautor": "fritidsbolig",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Eget navn på hytter og hus som ikke er ment for fast bosetting."
-    },
-    "tittel": {
-      "nb": "Fritidsbolig"
-    }
-  },
-  "SN-O-A-F": {
-    "kodeautor": "fylke",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Offisielt navn."
-    },
-    "tittel": {
-      "nb": "Fylke"
-    }
-  },
-  "SN-M-U-F": {
-    "kodeautor": "fyllplass",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Plass for deponering av masse som stein, jord og søppel."
-    },
-    "tittel": {
-      "nb": "Fyllplass"
-    }
-  },
-  "SN-I-N-F": {
-    "kodeautor": "fyrlykt",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Linse og lyskilde anbrakt i hus eller liknende. Ikke flytende."
-    },
-    "tittel": {
-      "nb": "Fyrlykt"
-    }
-  },
-  "SN-I-N-FS": {
-    "kodeautor": "fyrstasjon",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Automatisk og ubemannet. Et fast anlegg hvor linse og lyskilde er anbrakt i hus, tårn eller spesielt bygg. Ikke flytende."
-    },
-    "tittel": {
-      "nb": "Fyrstasjon"
-    }
-  },
-  "SN-B-B-G": {
-    "kodeautor": "gammelBosettingsplass",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Nedlagt bruk, seter, boplass hvor bygningen(e) er borte eller bare tuftene er tilbake."
-    },
-    "tittel": {
-      "nb": "Gammel bosettingsplass"
-    }
-  },
-  "SN-I-SA-G": {
-    "kodeautor": "garasjeHangarbygg",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Trikkestall, bussgarasje, flyhangar eller lokomotivstall."
-    },
-    "tittel": {
-      "nb": "Garasje/hangarbygg"
-    }
-  },
-  "SN-B-G-G": {
-    "kodeautor": "gard",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Felles navn for et helt gardsnummer (jf. § 8 i lov om stadnamn)."
-    },
-    "tittel": {
-      "nb": "Gard"
-    }
-  },
-  "SN-T-TD-GS": {
-    "kodeautor": "geologiskStruktur",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Navngitt struktur/formasjon i berggrunnen."
-    },
-    "tittel": {
-      "nb": "Geologisk struktur"
-    }
-  },
-  "SN-B-G-GJ": {
-    "kodeautor": "gjerde",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Oppsatt stengsel, vern, skille mellom jordstykker, eiendommer eller beiteområder."
-    },
-    "tittel": {
-      "nb": "Gjerde"
-    }
-  },
-  "SN-K-KI-G": {
-    "kodeautor": "gravplass",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Alle typer gravlunder, gravplasser."
-    },
-    "tittel": {
-      "nb": "Gravplass"
-    }
-  },
-  "SN-B-BS-G": {
-    "kodeautor": "grend",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Mindre uregulert gards-, seter- og boligområde."
-    },
-    "tittel": {
-      "nb": "Grend"
-    }
-  },
-  "SN-O-A-GM": {
-    "kodeautor": "grensemerke",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Offisielt grensemerke"
-    },
-    "tittel": {
-      "nb": "Grensemerke"
-    }
-  },
-  "SN-I-V-G": {
-    "kodeautor": "grind",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Port i gjerde."
-    },
-    "tittel": {
-      "nb": "Grind"
-    }
-  },
-  "SN-T-TD-G": {
-    "kodeautor": "grotte",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Naturlig fjellgrotte."
-    },
-    "tittel": {
-      "nb": "Grotte"
-    }
-  },
-  "SN-F-G-G": {
-    "kodeautor": "grunne",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Lite område under vann som hever seg fra området rundt."
-    },
-    "tittel": {
-      "nb": "Grunne"
-    }
-  },
-  "SN-S-G-G": {
-    "kodeautor": "grunneISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Markant forhøyning av havbunnen."
-    },
-    "tittel": {
-      "nb": "Grunne i sjø"
-    }
-  },
-  "SN-O-A-G": {
-    "kodeautor": "grunnkrets",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Offisielt navn på grunnkrets."
-    },
-    "tittel": {
-      "nb": "Grunnkrets"
-    }
-  },
-  "SN-F-S-GA": {
-    "kodeautor": "gruppeAvTjern",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "To eller flere små tjern."
-    },
-    "tittel": {
-      "nb": "Gruppe av tjern"
-    }
-  },
-  "SN-F-S-G": {
-    "kodeautor": "gruppeAvVann",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "To eller flere vann."
-    },
-    "tittel": {
-      "nb": "Gruppe av vann"
-    }
-  },
-  "SN-M-U-G": {
-    "kodeautor": "grustakSteinbrudd",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Uttaksplass/-område for sand, grus, pukk, skifer eller stein."
-    },
-    "tittel": {
-      "nb": "Grustak/steinbrudd"
-    }
-  },
-  "SN-F-R-G": {
-    "kodeautor": "grøft",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Rennende vann i oppgravd vannvei, f.eks. dreneringsgrøft i myr."
-    },
-    "tittel": {
-      "nb": "Grøft"
-    }
-  },
-  "SN-F-F-HØ": {
-    "kodeautor": "halvøy",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Større nes i ferskvann med smalt eid mot fastland."
-    },
-    "tittel": {
-      "nb": "Halvøy"
-    }
-  },
-  "SN-S-K-HØ": {
-    "kodeautor": "halvøyISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Større nes med smalt eid mot fastland."
-    },
-    "tittel": {
-      "nb": "Halvøy i sjø"
-    }
-  },
-  "SN-T-H-HA": {
-    "kodeautor": "haug",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Liten, markant forhøynet terrengform."
-    },
-    "tittel": {
-      "nb": "Haug"
-    }
-  },
-  "SN-S-S-H": {
-    "kodeautor": "havdyp",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Stort, dypt område i havet."
-    },
-    "tittel": {
-      "nb": "Havdyp"
-    }
-  },
-  "SN-I-S-H": {
-    "kodeautor": "havn",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Sted der fartøy laster, losser eller søker ly for vær og sjø."
-    },
-    "tittel": {
-      "nb": "Havn"
-    }
-  },
-  "SN-M-D-H": {
-    "kodeautor": "havnehage",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Inngjerdet beitemark."
-    },
-    "tittel": {
-      "nb": "Havnehage"
-    }
-  },
-  "SN-S-F-HO": {
-    "kodeautor": "havområde",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Del av et hav."
-    },
-    "tittel": {
-      "nb": "Havområde"
-    }
-  },
-  "SN-S-F-H": {
-    "kodeautor": "havstrøm",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Kontinuerlig bevegelse av vann (i havet) på grunn av klimatiske forhold eller tidevann."
-    },
-    "tittel": {
-      "nb": "Havstrøm"
-    }
-  },
-  "SN-T-H-H": {
-    "kodeautor": "hei",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Berglendt, høyere beliggende område med beitemark."
-    },
-    "tittel": {
-      "nb": "Hei"
-    }
-  },
-  "SN-T-TD-HE": {
-    "kodeautor": "heller",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Utoverhengende bergvegg eller berghule."
-    },
-    "tittel": {
-      "nb": "Heller"
-    }
-  },
-  "SN-B-I-H": {
-    "kodeautor": "helseinstitusjon",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Aldershjem, rekreasjonshjem og lignende."
-    },
-    "tittel": {
-      "nb": "Helseinstitusjon"
-    }
-  },
-  "SN-B-BS-HB": {
-    "kodeautor": "historiskBosetting",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Ubebodd eller forlatt bosetting med bestående bygningsmasse eller ruiner."
-    },
-    "tittel": {
-      "nb": "Historisk bosetting"
-    }
-  },
-  "SN-I-B-H": {
-    "kodeautor": "holdeplass",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Ubetjent stoppested for jernbane, tunnelbane og/eller trikk."
-    },
-    "tittel": {
-      "nb": "Holdeplass"
-    }
-  },
-  "SN-F-F-H": {
-    "kodeautor": "holme",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Liten øy i ferskvann."
-    },
-    "tittel": {
-      "nb": "Holme"
-    }
-  },
-  "SN-S-K-H": {
-    "kodeautor": "holmeISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Liten øy."
-    },
-    "tittel": {
-      "nb": "Holme i sjø"
-    }
-  },
-  "SN-S-K-HG": {
-    "kodeautor": "holmegruppeISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "To eller flere små øyer."
-    },
-    "tittel": {
-      "nb": "Holmegruppe i sjø"
-    }
-  },
-  "SN-B-N-H": {
-    "kodeautor": "hotell",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Større, offentlig godkjent overnattingssted."
-    },
-    "tittel": {
-      "nb": "Hotell"
-    }
-  },
-  "SN-T-TD-H": {
-    "kodeautor": "hylle",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Flatt, tilnærmet vannrett område i fjellside."
-    },
-    "tittel": {
-      "nb": "Hylle"
-    }
-  },
-  "SN-B-BS-H": {
-    "kodeautor": "hyttefelt",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Offentlig eller privat hyttefelt. Regulert område med høy utnyttelsesgrad."
-    },
-    "tittel": {
-      "nb": "Hyttefelt"
-    }
-  },
-  "SN-F-R-H": {
-    "kodeautor": "høl",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Dyp elvebunn under foss eller etter et stryk."
-    },
-    "tittel": {
-      "nb": "Høl"
-    }
-  },
-  "SN-T-H-HØ": {
-    "kodeautor": "høyde",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Høyereliggende terrengform, mindre omfattende enn ås og større enn haug."
-    },
-    "tittel": {
-      "nb": "Høyde"
-    }
-  },
-  "SN-B-F-IA": {
-    "kodeautor": "idrettsanlegg",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Alle typer utendørsanlegg for idrett."
-    },
-    "tittel": {
-      "nb": "Idrettsanlegg"
-    }
-  },
-  "SN-B-F-I": {
-    "kodeautor": "idrettshall",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Alle typer innendørsanlegg, f.eks. ishall, svømmehall, idrettshall og ridehall."
-    },
-    "tittel": {
-      "nb": "Idrettshall"
-    }
-  },
-  "SN-B-BS-I": {
-    "kodeautor": "industriområde",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Større, sammenhengende område til industri- og næringsformål."
-    },
-    "tittel": {
-      "nb": "Industriområde"
-    }
-  },
-  "SN-F-S-I": {
-    "kodeautor": "innsjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Stort vann."
-    },
-    "tittel": {
-      "nb": "Innsjø"
-    }
-  },
-  "SN-M-I-I": {
-    "kodeautor": "isbre",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Større sammenhengende snø- eller isområde som ikke smelter i løpet av sommeren."
-    },
-    "tittel": {
-      "nb": "Isbre"
-    }
-  },
-  "SN-I-N-J": {
-    "kodeautor": "jernstang",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Fast sjømerke av typen jernstang eller jernsøyle."
-    },
-    "tittel": {
-      "nb": "Jernstang"
-    }
-  },
-  "SN-M-D-J": {
-    "kodeautor": "jorde",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Kultivert dyrkningsmark."
-    },
-    "tittel": {
-      "nb": "Jorde"
-    }
-  },
-  "SN-T-S-J": {
-    "kodeautor": "juv",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Kløftlignende dal eller canyon."
-    },
-    "tittel": {
-      "nb": "Juv"
-    }
-  },
-  "SN-I-E-K": {
-    "kodeautor": "kabel",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Alle typer kabler i sjø eller i ferskvann."
-    },
-    "tittel": {
-      "nb": "Kabel"
-    }
-  },
-  "SN-I-S-K": {
-    "kodeautor": "kai",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Større, fastbygd bryggeanlegg."
-    },
-    "tittel": {
-      "nb": "Kai"
-    }
-  },
-  "SN-I-S-KA": {
-    "kodeautor": "kanal",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Kunstig eller naturlig vannvei eller gjennomseiling."
-    },
-    "tittel": {
-      "nb": "Kanal"
-    }
-  },
-  "SN-F-R-K": {
-    "kodeautor": "kilde",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Oppkomme, olle, kildeutspring, osv."
-    },
-    "tittel": {
-      "nb": "Kilde"
-    }
-  },
-  "SN-K-KI-K": {
-    "kodeautor": "kirke",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Kirke, kapell, arbeidskirke o.l."
-    },
-    "tittel": {
-      "nb": "Kirke"
-    }
-  },
-  "SN-S-G-K": {
-    "kodeautor": "klakkISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Fjellknatt på sjøbunnen."
-    },
-    "tittel": {
-      "nb": "Klakk i sjø"
-    }
-  },
-  "SN-I-SA-K": {
-    "kodeautor": "klopp",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Liten gangbru av stokker og/eller stein over bekker og elver, i myr eller i fjæra."
-    },
-    "tittel": {
-      "nb": "Klopp"
-    }
-  },
-  "SN-O-A-K": {
-    "kodeautor": "kommune",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Offisielt navn."
-    },
-    "tittel": {
-      "nb": "Kommune"
-    }
-  },
-  "SN-S-S-K": {
-    "kodeautor": "korallrev",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Rev som er dannet av koraller."
-    },
-    "tittel": {
-      "nb": "Korallrev"
-    }
-  },
-  "SN-I-E-KG": {
-    "kodeautor": "kraftgateRørgate",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Store tilførselsrør for kraftanlegg."
-    },
-    "tittel": {
-      "nb": "Kraftgate (rørgate)"
-    }
-  },
-  "SN-I-E-KL": {
-    "kodeautor": "kraftledning",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Stor strømoverføringsledning."
-    },
-    "tittel": {
-      "nb": "Kraftledning"
-    }
-  },
-  "SN-I-E-KS": {
-    "kodeautor": "kraftstasjon",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Alle typer / alle størrelser til energiproduksjon (f.eks. el. og varme)."
-    },
-    "tittel": {
-      "nb": "Kraftstasjon"
-    }
-  },
-  "SN-T-S-K": {
-    "kodeautor": "krater",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Skål- eller traktformet senkning i jordoverflaten forårsaket av vulkansk aktivitet eller av meteorittnedslag."
-    },
-    "tittel": {
-      "nb": "Krater"
-    }
-  },
-  "SN-I-L-L": {
-    "kodeautor": "landingsplass",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Landingsplass for helikopter og/eller privatfly."
-    },
-    "tittel": {
-      "nb": "Landingsplass"
-    }
-  },
-  "SN-T-T-L": {
-    "kodeautor": "landskapsområde",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Område der drag i landskapet, naturforhold, arealbruk og bosetting er samlende og skiller seg fra tilgrensende områder."
-    },
-    "tittel": {
-      "nb": "Landskapsområde"
-    }
-  },
-  "SN-I-N-LA": {
-    "kodeautor": "lanterne",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "En innretning hvor linsen med eller uten beskyttelsesglass utgjør en del av den bærende del av konstruksjonen. Ikke flytende."
-    },
-    "tittel": {
-      "nb": "Lanterne"
-    }
-  },
-  "SN-T-SK-L": {
-    "kodeautor": "li",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Skrånende terreng."
-    },
-    "tittel": {
-      "nb": "Li"
-    }
-  },
-  "SN-F-R-L": {
-    "kodeautor": "lon",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Utbuktning i elv eller bekk der vannet renner stille."
-    },
-    "tittel": {
-      "nb": "Lon"
-    }
-  },
-  "SN-I-N-L": {
-    "kodeautor": "lysbøye",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Flytende innretning for farvannsmerking med en lanterne som lyskilde."
-    },
-    "tittel": {
-      "nb": "Lysbøye"
-    }
-  },
-  "SN-I-V-M": {
-    "kodeautor": "matrikkeladressenavn",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Et stedsnavn som inngår i den offiselle adressen ved matrikkeladresser, jf. § 55 tredje ledd i matrikkelforskriften."
-    },
-    "tittel": {
-      "nb": "Matrikkeladressenavn"
-    }
-  },
-  "SN-M-D-M": {
-    "kodeautor": "melkeplass",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Seterplass uten hus (ev. med enkelt skur) brukt til melking av husdyr."
-    },
-    "tittel": {
-      "nb": "Melkeplass"
-    }
-  },
-  "SN-B-I-M": {
-    "kodeautor": "militærtByggAnlegg",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Militærleir."
-    },
-    "tittel": {
-      "nb": "Militært bygg/anlegg"
-    }
-  },
-  "SN-T-F-M": {
-    "kodeautor": "mo",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Større, flatt landområde (ofte skogkledd)."
-    },
-    "tittel": {
-      "nb": "Mo"
-    }
-  },
-  "SN-I-S-M": {
-    "kodeautor": "molo",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Fast byggverk, utstikkende voll i sjøen."
-    },
-    "tittel": {
-      "nb": "Molo"
-    }
-  },
-  "SN-K-KI-M": {
-    "kodeautor": "museumGalleriBibliotek",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Alle typer museum, galleri og bibliotek."
-    },
-    "tittel": {
-      "nb": "Museum/galleri/bibliotek"
-    }
-  },
-  "SN-M-V-M": {
-    "kodeautor": "myr",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Alle typer fra åpen gressmyr til våt moldjord dekket med kjerr."
-    },
-    "tittel": {
-      "nb": "Myr"
-    }
-  },
-  "SN-O-A-N": {
-    "kodeautor": "nasjon",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Offisielt navn på selvstendig stat eller land."
-    },
-    "tittel": {
-      "nb": "Nasjon"
-    }
-  },
-  "SN-B-G-N": {
-    "kodeautor": "navnegard",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Opprinnelig navn fra før garden ble oppdelt i gards- og bruksenheter. Navnegardens utbredelse kan omfatte flere enn ett gardsnummer."
-    },
-    "tittel": {
-      "nb": "Navnegard"
-    }
-  },
-  "SN-F-F-N": {
-    "kodeautor": "nes",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Landområde stikkende ut i ferskvann."
-    },
-    "tittel": {
-      "nb": "Nes"
-    }
-  },
-  "SN-S-K-N": {
-    "kodeautor": "nesISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Landområde stikkende ut i sjø."
-    },
-    "tittel": {
-      "nb": "Nes i sjø"
-    }
-  },
-  "SN-F-R-N": {
-    "kodeautor": "nesVedElver",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Landet mellom to møtende elver."
-    },
-    "tittel": {
-      "nb": "Nes ved elver"
-    }
-  },
-  "SN-K-K-O": {
-    "kodeautor": "offersted",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Alle typer offersted."
-    },
-    "tittel": {
-      "nb": "Offersted"
-    }
-  },
-  "SN-B-N-O": {
-    "kodeautor": "oppdrettsanlegg",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Anlegg for foring og stell av husdyr til de kan settes i produksjon eller slaktes; oppforing av fisk (og andre sjødyr) i fangenskap."
-    },
-    "tittel": {
-      "nb": "Oppdrettsanlegg"
-    }
-  },
-  "SN-F-R-O": {
-    "kodeautor": "os",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Innløp eller utløp av elv eller bekk i innsjø/vann/tjern eller sjø (saltvann)."
-    },
-    "tittel": {
-      "nb": "Os"
-    }
-  },
-  "SN-I-N-O": {
-    "kodeautor": "overett",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "To sjømerker, med eller uten lys, som, når de peiles på linje, viser kurs for gjennomseiling."
-    },
-    "tittel": {
-      "nb": "Overett"
-    }
-  },
-  "SN-B-F-P": {
-    "kodeautor": "park",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Kultivert grøntområde i by/tettsted."
-    },
-    "tittel": {
-      "nb": "Park"
-    }
-  },
-  "SN-I-V-P": {
-    "kodeautor": "parkeringsplass",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Tomt (eller bygning) for parkering av biler."
-    },
-    "tittel": {
-      "nb": "Parkeringsplass"
-    }
-  },
-  "SN-B-N-P": {
-    "kodeautor": "pensjonat",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Mindre, offentlig godkjent overnattingssted."
-    },
-    "tittel": {
-      "nb": "Pensjonat"
-    }
-  },
-  "SN-S-S-P": {
-    "kodeautor": "platåISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Stor, flat forhøyning som skiller seg fra havbunnen omkring."
-    },
-    "tittel": {
-      "nb": "Platå i sjø"
-    }
-  },
-  "SN-O-A-P": {
-    "kodeautor": "poststed",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Offisielt poststed/postnummerområde."
-    },
-    "tittel": {
-      "nb": "Poststed"
-    }
-  },
-  "SN-F-S-P": {
-    "kodeautor": "pytt",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Lite vannhull (mindre enn tjern)."
-    },
-    "tittel": {
-      "nb": "Pytt"
-    }
-  },
-  "SN-I-SA-R": {
-    "kodeautor": "rasteplass",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Rasteplass definert og lagt til rette av Statens vegvesen eller annen offentlig myndighet."
-    },
-    "tittel": {
-      "nb": "Rasteplass"
-    }
-  },
-  "SN-S-S-RK": {
-    "kodeautor": "renneKløftISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Undersjøisk dal, kanal, senkning, ravine, fure, spor, rille o.l."
-    },
-    "tittel": {
-      "nb": "Renne/Kløft i sjø"
-    }
-  },
-  "SN-T-H-R": {
-    "kodeautor": "rygg",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Langstrakt terrengform."
-    },
-    "tittel": {
-      "nb": "Rygg"
-    }
-  },
-  "SN-S-S-R": {
-    "kodeautor": "ryggISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Undersjøisk ås, åskam eller fjellrygg."
-    },
-    "tittel": {
-      "nb": "Rygg i sjø"
-    }
-  },
-  "SN-I-E-R": {
-    "kodeautor": "rørledning",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Alle typer rørledninger"
-    },
-    "tittel": {
-      "nb": "Rørledning"
-    }
-  },
-  "SN-B-I-R": {
-    "kodeautor": "rådhus",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Administrasjonssenteret i den administrative enheten, f.eks. stat, fylke, kommune."
-    },
-    "tittel": {
-      "nb": "Rådhus"
-    }
-  },
-  "SN-M-L-S": {
-    "kodeautor": "sand",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Finkornede avsetninger (sand og/eller grus)."
-    },
-    "tittel": {
-      "nb": "Sand"
-    }
-  },
-  "SN-T-S-SE": {
-    "kodeautor": "senkning",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Flat forsenkning, dalsenkning."
-    },
-    "tittel": {
-      "nb": "Senkning"
-    }
-  },
-  "SN-B-N-S": {
-    "kodeautor": "serveringssted",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Serveringssted uten overnatting."
-    },
-    "tittel": {
-      "nb": "Serveringssted"
-    }
-  },
-  "SN-B-G-S": {
-    "kodeautor": "seterStøl",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Enklere landbruksbebyggelse med hus. Kan ha periodisk fast bosetting, vanligvis sommerstid."
-    },
-    "tittel": {
-      "nb": "Seter/støl"
-    }
-  },
-  "SN-M-D-S": {
-    "kodeautor": "setervoll",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Ryddet, gressbevokst område på seter uten hus."
-    },
-    "tittel": {
-      "nb": "Setervoll"
-    }
-  },
-  "SN-K-K-S": {
-    "kodeautor": "severdighet",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Minnesmerke, arkeologiske funn o.l."
-    },
-    "tittel": {
-      "nb": "Severdighet"
-    }
-  },
-  "SN-S-D-S": {
-    "kodeautor": "sjødetalj",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Detalj som ikke dekkes av andre sjø-navneobjekttyper."
-    },
-    "tittel": {
-      "nb": "Sjødetalj"
-    }
-  },
-  "SN-I-N-S": {
-    "kodeautor": "sjøvarde",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Varde av stein eller betong primært for navigering til sjøs."
-    },
-    "tittel": {
-      "nb": "Sjømerke"
-    }
-  },
-  "SN-S-F-S": {
-    "kodeautor": "sjøstykke",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Stykke av sjøen utanfor land, vanligvis innaskjærs eller i kystnære farvann."
-    },
-    "tittel": {
-      "nb": "Sjøstykke"
-    }
-  },
-  "SN-T-S-S": {
-    "kodeautor": "skar",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Markant senkning i fjell eller berg."
-    },
-    "tittel": {
-      "nb": "Skar"
-    }
-  },
-  "SN-B-F-S": {
-    "kodeautor": "skiheis",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Skitrekk og stolheis i skianlegg."
-    },
-    "tittel": {
-      "nb": "Skiheis"
-    }
-  },
-  "SN-F-G-S": {
-    "kodeautor": "skjær",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Fjell eller stein i vannflaten."
-    },
-    "tittel": {
-      "nb": "Skjær"
-    }
-  },
-  "SN-S-G-S": {
-    "kodeautor": "skjærISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Bergrunn nær eller rett over vannflaten."
-    },
-    "tittel": {
-      "nb": "Skjær i sjø"
-    }
-  },
-  "SN-M-VE-S": {
-    "kodeautor": "skog",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Alle typer fra stor barskog til og med vierkratt i Finnmark."
-    },
-    "tittel": {
-      "nb": "Skog"
-    }
-  },
-  "SN-M-VE-SH": {
-    "kodeautor": "skogholt",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Mindre samling av trær."
-    },
-    "tittel": {
-      "nb": "Skogholt"
-    }
-  },
-  "SN-T-T-S": {
-    "kodeautor": "skogområde",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Større område med skog og mark."
-    },
-    "tittel": {
-      "nb": "Skogområde"
-    }
-  },
-  "SN-B-I-S": {
-    "kodeautor": "skole",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Offentlig og privat skole."
-    },
-    "tittel": {
-      "nb": "Skole"
-    }
-  },
-  "SN-O-A-SK": {
-    "kodeautor": "skolekrets",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Skolekrets definert av kommunen."
-    },
-    "tittel": {
-      "nb": "Skolekrets"
-    }
-  },
-  "SN-M-L-SO": {
-    "kodeautor": "skredområde",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Område der det går eller har gått skred."
-    },
-    "tittel": {
-      "nb": "Skredområde"
-    }
-  },
-  "SN-O-V-S": {
-    "kodeautor": "skytebane",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Bane for øvelse el. konkurranse i skyting."
-    },
-    "tittel": {
-      "nb": "Skytebane"
-    }
-  },
-  "SN-O-V-SF": {
-    "kodeautor": "skytefelt",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Militært sprengingsfelt, bombe- og skytefelt, både på land og sjø."
-    },
-    "tittel": {
-      "nb": "Skytefelt"
-    }
-  },
-  "SN-T-F-S": {
-    "kodeautor": "slette",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Åpent, flatt område."
-    },
-    "tittel": {
-      "nb": "Slette"
-    }
-  },
-  "SN-I-S-SL": {
-    "kodeautor": "sluse",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Kunstig løfteanretning for båter i vassdrag."
-    },
-    "tittel": {
-      "nb": "Sluse"
-    }
-  },
-  "SN-I-S-SH": {
-    "kodeautor": "småbåthavn",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Regulert havneanlegg for småbåter."
-    },
-    "tittel": {
-      "nb": "Småbåthavn"
-    }
-  },
-  "SN-O-A-S": {
-    "kodeautor": "sokn",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Kirkesokn i Den norske kirke."
-    },
-    "tittel": {
-      "nb": "Sokn"
-    }
-  },
-  "SN-O-V-SH": {
-    "kodeautor": "soneinndelingTilHavs",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Fiskerisone, havrettssone og lignende."
-    },
-    "tittel": {
-      "nb": "Soneinndeling til havs"
-    }
-  },
-  "SN-I-B-S": {
-    "kodeautor": "stasjon",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Stoppested for jernbane, tunnelbane og/eller trikk. Som regel betjent."
-    },
-    "tittel": {
-      "nb": "Stasjon"
-    }
-  },
-  "SN-O-A-ST": {
-    "kodeautor": "statistiskTettsted",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Tettsted etter Statistisk sentralbyrås klassifisering som brukes for å lage statistikk over befolkning og tettsteder."
-    },
-    "tittel": {
-      "nb": "Statistisk tettsted"
-    }
-  },
-  "SN-M-L-ST": {
-    "kodeautor": "stein",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Frittliggende steinblokk."
-    },
-    "tittel": {
-      "nb": "Stein"
-    }
-  },
-  "SN-I-V-S": {
-    "kodeautor": "sti",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Stistrekning, råk, slepe (gammel drifteveg), reindriftsveg."
-    },
-    "tittel": {
-      "nb": "Sti"
-    }
-  },
-  "SN-F-F-ST": {
-    "kodeautor": "strand",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Sand-, grus- eller steindekket område i vannkanten ved elv eller vann."
-    },
-    "tittel": {
-      "nb": "Strand"
-    }
-  },
-  "SN-S-K-SS": {
-    "kodeautor": "strandISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Sand-, grus- eller steindekket område i sjøkanten."
-    },
-    "tittel": {
-      "nb": "Strand i sjø"
-    }
-  },
-  "SN-F-R-S": {
-    "kodeautor": "stryk",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Del av elv, bekk der vannet går i stryk (og skiller seg tydelig fra resten av elva/bekken)."
-    },
-    "tittel": {
-      "nb": "Stryk"
-    }
-  },
-  "SN-T-TD-S": {
-    "kodeautor": "stup",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Loddrett, svært bratt berg."
-    },
-    "tittel": {
-      "nb": "Stup"
-    }
-  },
-  "SN-I-S-S": {
-    "kodeautor": "stø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Båtplass i vannkanten uten naust."
-    },
-    "tittel": {
-      "nb": "Stø"
-    }
-  },
-  "SN-F-F-S": {
-    "kodeautor": "sund",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Innsnevret område i vann eller vassdrag."
-    },
-    "tittel": {
-      "nb": "Sund"
-    }
-  },
-  "SN-S-K-S": {
-    "kodeautor": "sundISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Innsnevret område mellom øyer eller fastland."
-    },
-    "tittel": {
-      "nb": "Sund i sjø"
-    }
-  },
-  "SN-B-I-SY": {
-    "kodeautor": "sykehus",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Offentlig og privat sykehus."
-    },
-    "tittel": {
-      "nb": "Sykehus"
-    }
-  },
-  "SN-T-S-SØ": {
-    "kodeautor": "søkk",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Mindre markant, begrenset fordypning."
-    },
-    "tittel": {
-      "nb": "Søkk"
-    }
-  },
-  "SN-S-S-S": {
-    "kodeautor": "søkkISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Stor eller liten grop på sjøbunnen."
-    },
-    "tittel": {
-      "nb": "Søkk i sjø"
-    }
-  },
-  "SN-B-BS-TB": {
-    "kodeautor": "tettbebyggelse",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Bebygd område uten sentrumskarakter."
-    },
-    "tittel": {
-      "nb": "Tettbebyggelse"
-    }
-  },
-  "SN-B-BS-TE": {
-    "kodeautor": "tettsted",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Mindre, bymessig bebygd område med sentrumskarakter."
-    },
-    "tittel": {
-      "nb": "Tettsted"
-    }
-  },
-  "SN-B-BS-TD": {
-    "kodeautor": "tettsteddel",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Kulturmessig del av tettsted."
-    },
-    "tittel": {
-      "nb": "Tettsteddel"
-    }
-  },
-  "SN-F-S-T": {
-    "kodeautor": "tjern",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Lite vann."
-    },
-    "tittel": {
-      "nb": "Tjern"
-    }
-  },
-  "SN-T-H-T": {
-    "kodeautor": "topp",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Tind, markant topp på fjell, berg, ås osv."
-    },
-    "tittel": {
-      "nb": "Topp"
-    }
-  },
-  "SN-B-BS-T": {
-    "kodeautor": "torg",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Stor, åpen plass i en by."
-    },
-    "tittel": {
-      "nb": "Torg"
-    }
-  },
-  "SN-M-U-T": {
-    "kodeautor": "torvtak",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Sted for uttak av myrtorv, brenntorv eller veksttorv."
-    },
-    "tittel": {
-      "nb": "Torvtak"
-    }
-  },
-  "SN-I-V-T": {
-    "kodeautor": "traktorveg",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Driftsveg anlagt for traktorbruk. Ikke fremkommelig med vanlig personbil."
-    },
-    "tittel": {
-      "nb": "Traktorveg"
-    }
-  },
-  "SN-I-SA-T": {
-    "kodeautor": "tunnel",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Vanlig tunnel, rasoverbygg eller undergang. Både på veg og jernbane."
-    },
-    "tittel": {
-      "nb": "Tunnel"
-    }
-  },
-  "SN-B-N-T": {
-    "kodeautor": "turisthytte",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Overnattingssted utenfor tettbygd område."
-    },
-    "tittel": {
-      "nb": "Turisthytte"
-    }
-  },
-  "SN-I-K-T": {
-    "kodeautor": "tV-Radio-EllerMobiltelefontårn",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Alle typer bakkebasert telekommunikasjon."
-    },
-    "tittel": {
-      "nb": "TV-/radio- eller mobiltelefontårn"
-    }
-  },
-  "SN-I-V-TV": {
-    "kodeautor": "tømmervelte",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Midlertidig lagringsplass for tømmer."
-    },
-    "tittel": {
-      "nb": "Tømmervelte"
-    }
-  },
-  "SN-S-S-U": {
-    "kodeautor": "undersjøiskVegg",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Fjellside i havet."
-    },
-    "tittel": {
-      "nb": "Undersjøisk vegg"
-    }
-  },
-  "SN-B-I-U": {
-    "kodeautor": "universitetHøgskole",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Offentlig og privat høgskole og universitet."
-    },
-    "tittel": {
-      "nb": "Universitet/høgskole"
-    }
-  },
-  "SN-M-L-U": {
-    "kodeautor": "ur",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Steinområde, steinrøys."
-    },
-    "tittel": {
-      "nb": "Ur"
-    }
-  },
-  "SN-M-D-U": {
-    "kodeautor": "utmark",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Beitemark i skog og mark vekk fra garden (og innmarka)."
-    },
-    "tittel": {
-      "nb": "Utmark"
-    }
-  },
-  "SN-K-K-U": {
-    "kodeautor": "utsiktspunkt",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Både fra tårn og på bakken."
-    },
-    "tittel": {
-      "nb": "Utsiktspunkt"
-    }
-  },
-  "SN-I-S-U": {
-    "kodeautor": "utstikker",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Flytende bryggeanlegg."
-    },
-    "tittel": {
-      "nb": "Utstikker"
-    }
-  },
-  "SN-I-V-V": {
-    "kodeautor": "vad",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Vadested, vanligvis der en stistrekning krysser elv, bekk eller vann."
-    },
-    "tittel": {
-      "nb": "Vad"
-    }
-  },
-  "SN-B-I-V": {
-    "kodeautor": "vaktstasjonBeredsskapsbygning",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Bygning for politi/brann/los/toll/ambulanse/fly- og skipsovervåkning."
-    },
-    "tittel": {
-      "nb": "Vaktstasjon/beredsskapsbygning"
-    }
-  },
-  "SN-F-S-V": {
-    "kodeautor": "vann",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Middels stort vann."
-    },
-    "tittel": {
-      "nb": "Vann"
-    }
-  },
-  "SN-I-N-V": {
-    "kodeautor": "varde",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "(Som oftest) oppstablet stein som skal markere sti, grensemerke, trigonometrisk punkt o.l."
-    },
-    "tittel": {
-      "nb": "Varde"
-    }
-  },
-  "SN-I-SA-V": {
-    "kodeautor": "vegbom",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Mindre bomanlegg på privat veg."
-    },
-    "tittel": {
-      "nb": "Vegbom"
-    }
-  },
-  "SN-I-V-VK": {
-    "kodeautor": "vegkryss",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Allment kjent vegkryss i alle typer veger og gater."
-    },
-    "tittel": {
-      "nb": "Vegkryss"
-    }
-  },
-  "SN-I-V-VE": {
-    "kodeautor": "vegstrekning",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Navn på vegstrekning som ikke nødvendigvis har et formelt vedtak, og ikke er det samme som adressenavnet. Det kan være f.eks. fjelloverganger, turistrekninger og ringveger rundt en by."
-    },
-    "tittel": {
-      "nb": "Vegstrekning"
-    }
-  },
-  "SN-I-V-VS": {
-    "kodeautor": "vegsving",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Allment kjent sving på alle typer veger og gater."
-    },
-    "tittel": {
-      "nb": "Vegsving"
-    }
-  },
-  "SN-O-V-V": {
-    "kodeautor": "verneområde",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Et område med spesiell natur- og/eller kulturverdi som er formelt vedtatt vernet etter offentlig regelverk. Alle typer, både på sjø og land."
-    },
-    "tittel": {
-      "nb": "Verneområde"
-    }
-  },
-  "SN-T-T-V": {
-    "kodeautor": "vidde",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Høyereliggende (fjell)område med lite høydevariasjoner innenfor området, som regel over tregrensa."
-    },
-    "tittel": {
-      "nb": "Vidde"
-    }
-  },
-  "SN-F-F-V": {
-    "kodeautor": "vik",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Kil eller bukt i vann eller vassdrag."
-    },
-    "tittel": {
-      "nb": "Vik"
-    }
-  },
-  "SN-S-K-V": {
-    "kodeautor": "vikISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Kil, bukt."
-    },
-    "tittel": {
-      "nb": "Vik i sjø"
-    }
-  },
-  "SN-S-K-VS": {
-    "kodeautor": "vågISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Fjordarm, større vik."
-    },
-    "tittel": {
-      "nb": "Våg i sjø"
-    }
-  },
-  "SN-F-F-Ø": {
-    "kodeautor": "øy",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Tørt landområde i ferskvann atskilt fra fastlandet."
-    },
-    "tittel": {
-      "nb": "Øy"
-    }
-  },
-  "SN-S-K-Ø": {
-    "kodeautor": "øyISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Tørt landområde atskilt fra fastlandet."
-    },
-    "tittel": {
-      "nb": "Øy i sjø"
-    }
-  },
-  "SN-F-F-ØG": {
-    "kodeautor": "øygruppe",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "To eller flere øyer i ferskvann."
-    },
-    "tittel": {
-      "nb": "Øygruppe"
-    }
-  },
-  "SN-S-K-ØG": {
-    "kodeautor": "øygruppeISjø",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "To eller flere øyer."
-    },
-    "tittel": {
-      "nb": "Øygruppe i sjø"
-    }
-  },
-  "SN-M-L-Ø": {
-    "kodeautor": "øyr",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Sand-/grusområde i elvemunning, elvedelta både mot innsjø/vann og saltvann."
-    },
-    "tittel": {
-      "nb": "Øyr"
-    }
-  },
-  "SN-T-H-Å": {
-    "kodeautor": "ås",
-    "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
-    "ingress": {
-      "nb": "Langstrakt høydedrag."
-    },
-    "tittel": {
-      "nb": "Ås"
-    }
-  },
+  "items": [
+    {
+      "farge": "#cecece",
+      "kode": "SN",
+      "nivå": "Steder",
+      "tittel": {
+        "nb": "Sted"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle grupper som er relevante under hovedgruppe bebyggelse. Tilsvarer Inspire temaet \"building\" og \"populatedPlace\"."
+      },
+      "kode": "SN-B",
+      "kodeautor": "bebyggelse",
+      "nivå": "Hovedgruppeinndelingen av navneobjekttyper.",
+      "tittel": {
+        "nb": "Bebyggelse"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver enkeltbygninger til boligformål som er bebodd midlertidig eller permanent."
+      },
+      "kode": "SN-B-B",
+      "kodeautor": "bolighus",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Bolighus"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Bofellesskap i blokk eller flerbebyggelse."
+      },
+      "kode": "SN-B-B-B",
+      "kodeautor": "borettslag",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Borettslag"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Stort (bolig)hus av mur, betong med over fire boliger som har felles trapp(er) eller heis(er)."
+      },
+      "kode": "SN-B-B-BB",
+      "kodeautor": "boligblokk",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Boligblokk"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Navn på mindre eiendom for fast bosetting. Hovedsakelig eiendom hvor eier kan bestemme skrivemåten (jf. § 8 i lov om stadnamn og § 54 i matrikkelforskriften). Kan også omfatte eget navn på bygg, eller våningshus/gardsbruk som ikke er gitt eget matrikkelnummer."
+      },
+      "kode": "SN-B-B-E",
+      "kodeautor": "eneboligMindreBoligbygg",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Enebolig/mindre boligbygg"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Eget navn på hytter og hus som ikke er ment for fast bosetting."
+      },
+      "kode": "SN-B-B-F",
+      "kodeautor": "fritidsbolig",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Fritidsbolig"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Nedlagt bruk, seter, boplass hvor bygningen(e) er borte eller bare tuftene er tilbake."
+      },
+      "kode": "SN-B-B-G",
+      "kodeautor": "gammelBosettingsplass",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Gammel bosettingsplass"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver områder med flere bygninger samlet innenfor et begrenset område."
+      },
+      "kode": "SN-B-BS",
+      "kodeautor": "bebyggelsesområder",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Bebyggelsesområder"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Tettbygd sted som er større og (til dels) innehar viktigere funksjoner enn andre tettbygde steder / tettsteder."
+      },
+      "kode": "SN-B-BS-B",
+      "kodeautor": "by",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "By"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Stort, uregulert gards- og boligområde."
+      },
+      "kode": "SN-B-BS-BB",
+      "kodeautor": "bygdelagBygd",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Bygdelag (bygd)"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Regulert boligområde."
+      },
+      "kode": "SN-B-BS-BF",
+      "kodeautor": "boligfelt",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Boligfelt"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Kulturmessig del av by."
+      },
+      "kode": "SN-B-BS-BY",
+      "kodeautor": "bydel",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Bydel"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Mindre uregulert gards-, seter- og boligområde."
+      },
+      "kode": "SN-B-BS-G",
+      "kodeautor": "grend",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Grend"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Offentlig eller privat hyttefelt. Regulert område med høy utnyttelsesgrad."
+      },
+      "kode": "SN-B-BS-H",
+      "kodeautor": "hyttefelt",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Hyttefelt"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Ubebodd eller forlatt bosetting med bestående bygningsmasse eller ruiner."
+      },
+      "kode": "SN-B-BS-HB",
+      "kodeautor": "historiskBosetting",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Historisk bosetting"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Større, sammenhengende område til industri- og næringsformål."
+      },
+      "kode": "SN-B-BS-I",
+      "kodeautor": "industriområde",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Industriområde"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Stor, åpen plass i en by."
+      },
+      "kode": "SN-B-BS-T",
+      "kodeautor": "torg",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Torg"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Bebygd område uten sentrumskarakter."
+      },
+      "kode": "SN-B-BS-TB",
+      "kodeautor": "tettbebyggelse",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Tettbebyggelse"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Kulturmessig del av tettsted."
+      },
+      "kode": "SN-B-BS-TD",
+      "kodeautor": "tettsteddel",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Tettsteddel"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Mindre, bymessig bebygd område med sentrumskarakter."
+      },
+      "kode": "SN-B-BS-TE",
+      "kodeautor": "tettsted",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Tettsted"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver bygningsmessige og naturlige anlegg for rekreasjon og fritidsaktiviteter."
+      },
+      "kode": "SN-B-F",
+      "kodeautor": "fritidsanlegg",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Fritidsanlegg"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Anlegg for slalåm, utfor, snøbrett osv."
+      },
+      "kode": "SN-B-F-A",
+      "kodeautor": "alpinanlegg",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Alpinanlegg"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Offentlig eller privat badeplass."
+      },
+      "kode": "SN-B-F-B",
+      "kodeautor": "badeplass",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Badeplass"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Store, regulerte anlegg."
+      },
+      "kode": "SN-B-F-F",
+      "kodeautor": "fornøyelsespark",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Fornøyelsespark"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle typer innendørsanlegg, f.eks. ishall, svømmehall, idrettshall og ridehall."
+      },
+      "kode": "SN-B-F-I",
+      "kodeautor": "idrettshall",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Idrettshall"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle typer utendørsanlegg for idrett."
+      },
+      "kode": "SN-B-F-IA",
+      "kodeautor": "idrettsanlegg",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Idrettsanlegg"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Kultivert grøntområde i by/tettsted."
+      },
+      "kode": "SN-B-F-P",
+      "kodeautor": "park",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Park"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Skitrekk og stolheis i skianlegg."
+      },
+      "kode": "SN-B-F-S",
+      "kodeautor": "skiheis",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Skiheis"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver områder med samling av bebyggelse som hovedsakelig er knyttet til landbruk."
+      },
+      "kode": "SN-B-G",
+      "kodeautor": "gardsbebyggelse",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Gardsbebyggelse"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Navn på (landbruks)eiendom med ett eller flere bruksnummer under ett gardsnummer, jf. lov om stadnamn §§ 2 og 8."
+      },
+      "kode": "SN-B-G-B",
+      "kodeautor": "bruk",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Bruk"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Til primærnæring, f.eks. naust, uthus, sommerfjøs eller gamme."
+      },
+      "kode": "SN-B-G-BF",
+      "kodeautor": "byggForJordbrukFiskeOgFangst",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Bygg for jordbruk, fiske og fangst"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Navn på eiendom som ikke er bruksnavn, ev. felles stedsnavn for flere eiendommer."
+      },
+      "kode": "SN-B-G-E",
+      "kodeautor": "eiendom",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Eiendom"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Felles navn for et helt gardsnummer (jf. § 8 i lov om stadnamn)."
+      },
+      "kode": "SN-B-G-G",
+      "kodeautor": "gard",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Gard"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Oppsatt stengsel, vern, skille mellom jordstykker, eiendommer eller beiteområder."
+      },
+      "kode": "SN-B-G-GJ",
+      "kodeautor": "gjerde",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Gjerde"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Opprinnelig navn fra før garden ble oppdelt i gards- og bruksenheter. Navnegardens utbredelse kan omfatte flere enn ett gardsnummer."
+      },
+      "kode": "SN-B-G-N",
+      "kodeautor": "navnegard",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Navnegard"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Enklere landbruksbebyggelse med hus. Kan ha periodisk fast bosetting, vanligvis sommerstid."
+      },
+      "kode": "SN-B-G-S",
+      "kodeautor": "seterStøl",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Seter/støl"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver enkeltbygninger eller mindre samlinger av bygninger av institusjonell karakter."
+      },
+      "kode": "SN-B-I",
+      "kodeautor": "institusjoner",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Institusjoner"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Offentlig og privat barnehage."
+      },
+      "kode": "SN-B-I-B",
+      "kodeautor": "barnehage",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Barnehage"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Bygning der arresterte eller dømte personer soner straff."
+      },
+      "kode": "SN-B-I-F",
+      "kodeautor": "fengsel",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Fengsel"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Bemannet forskningsstasjon eller meteorologisk stasjon med bygningsmasse."
+      },
+      "kode": "SN-B-I-FS",
+      "kodeautor": "forskningsstasjon",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Forskningsstasjon"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Aldershjem, rekreasjonshjem og lignende."
+      },
+      "kode": "SN-B-I-H",
+      "kodeautor": "helseinstitusjon",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Helseinstitusjon"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Militærleir."
+      },
+      "kode": "SN-B-I-M",
+      "kodeautor": "militærtByggAnlegg",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Militært bygg/anlegg"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Administrasjonssenteret i den administrative enheten, f.eks. stat, fylke, kommune."
+      },
+      "kode": "SN-B-I-R",
+      "kodeautor": "rådhus",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Rådhus"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Offentlig og privat skole."
+      },
+      "kode": "SN-B-I-S",
+      "kodeautor": "skole",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Skole"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Offentlig og privat sykehus."
+      },
+      "kode": "SN-B-I-SY",
+      "kodeautor": "sykehus",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Sykehus"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Offentlig og privat høgskole og universitet."
+      },
+      "kode": "SN-B-I-U",
+      "kodeautor": "universitetHøgskole",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Universitet/høgskole"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Bygning for politi/brann/los/toll/ambulanse/fly- og skipsovervåkning."
+      },
+      "kode": "SN-B-I-V",
+      "kodeautor": "vaktstasjonBeredsskapsbygning",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Vaktstasjon/beredsskapsbygning"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver enkeltbygninger til næringsformål."
+      },
+      "kode": "SN-B-N",
+      "kodeautor": "næring",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Næring"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Mindre industri- og produksjonsbedrift eller lager."
+      },
+      "kode": "SN-B-N-A",
+      "kodeautor": "annenIndustri-OgLagerbygning",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Annen industri- og lagerbygning"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle typer, med/uten campinghytter, campingvogner og telt."
+      },
+      "kode": "SN-B-N-C",
+      "kodeautor": "campingplass",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Campingplass"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Større industrivirksomhet."
+      },
+      "kode": "SN-B-N-F",
+      "kodeautor": "fabrikk",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Fabrikk"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Bygning for kontor-, salg- og servicevirksomhet."
+      },
+      "kode": "SN-B-N-FO",
+      "kodeautor": "forretningsbygg",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Forretningsbygg"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Større, offentlig godkjent overnattingssted."
+      },
+      "kode": "SN-B-N-H",
+      "kodeautor": "hotell",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Hotell"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Anlegg for foring og stell av husdyr til de kan settes i produksjon eller slaktes; oppforing av fisk (og andre sjødyr) i fangenskap."
+      },
+      "kode": "SN-B-N-O",
+      "kodeautor": "oppdrettsanlegg",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Oppdrettsanlegg"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Mindre, offentlig godkjent overnattingssted."
+      },
+      "kode": "SN-B-N-P",
+      "kodeautor": "pensjonat",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Pensjonat"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Serveringssted uten overnatting."
+      },
+      "kode": "SN-B-N-S",
+      "kodeautor": "serveringssted",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Serveringssted"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Overnattingssted utenfor tettbygd område."
+      },
+      "kode": "SN-B-N-T",
+      "kodeautor": "turisthytte",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Turisthytte"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle grupper som er relevante under hovedgruppe Ferskvann. Under Inspire temaet \"hydrography\" som vi har delt i to."
+      },
+      "kode": "SN-F",
+      "kodeautor": "ferskvann",
+      "nivå": "Hovedgruppeinndelingen av navneobjekttyper.",
+      "tittel": {
+        "nb": "Ferskvann"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver detaljer i ferskvann."
+      },
+      "kode": "SN-F-D",
+      "kodeautor": "detaljerIFerskvann",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Detaljer i ferskvann"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Andre navngitte forhold i ferskvann."
+      },
+      "kode": "SN-F-D-A",
+      "kodeautor": "annenVanndetalj",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Annen vanndetalj"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver omrisset av objekter med ferskvann."
+      },
+      "kode": "SN-F-F",
+      "kodeautor": "ferskvannskontur",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Ferskvannskontur"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Lavt eller smalt parti mellom to vannkanter (elv eller vann)."
+      },
+      "kode": "SN-F-F-E",
+      "kodeautor": "eid",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Eid"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Liten øy i ferskvann."
+      },
+      "kode": "SN-F-F-H",
+      "kodeautor": "holme",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Holme"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Større nes i ferskvann med smalt eid mot fastland."
+      },
+      "kode": "SN-F-F-HØ",
+      "kodeautor": "halvøy",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Halvøy"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Landområde stikkende ut i ferskvann."
+      },
+      "kode": "SN-F-F-N",
+      "kodeautor": "nes",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Nes"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Innsnevret område i vann eller vassdrag."
+      },
+      "kode": "SN-F-F-S",
+      "kodeautor": "sund",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Sund"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Sand-, grus- eller steindekket område i vannkanten ved elv eller vann."
+      },
+      "kode": "SN-F-F-ST",
+      "kodeautor": "strand",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Strand"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Kil eller bukt i vann eller vassdrag."
+      },
+      "kode": "SN-F-F-V",
+      "kodeautor": "vik",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Vik"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Tørt landområde i ferskvann atskilt fra fastlandet."
+      },
+      "kode": "SN-F-F-Ø",
+      "kodeautor": "øy",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Øy"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "To eller flere øyer i ferskvann."
+      },
+      "kode": "SN-F-F-ØG",
+      "kodeautor": "øygruppe",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Øygruppe"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper under vannflaten som stikker høyere opp enn resten av området, men ikke vesentlig over vannflaten."
+      },
+      "kode": "SN-F-G",
+      "kodeautor": "grunnerIFerskvann",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Grunner i ferskvann"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Fjell eller stein under vannflaten."
+      },
+      "kode": "SN-F-G-B",
+      "kodeautor": "båe",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Båe"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Flatt, større undervannsområde."
+      },
+      "kode": "SN-F-G-BA",
+      "kodeautor": "banke",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Banke"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Lite område under vann som hever seg fra området rundt."
+      },
+      "kode": "SN-F-G-G",
+      "kodeautor": "grunne",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Grunne"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Fjell eller stein i vannflaten."
+      },
+      "kode": "SN-F-G-S",
+      "kodeautor": "skjær",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Skjær"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver rennenede ferskvann."
+      },
+      "kode": "SN-F-R",
+      "kodeautor": "rennendeVann",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Rennende vann"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Rennende vann i naturlig vannvei, vanligvis smalere enn 3 meter."
+      },
+      "kode": "SN-F-R-B",
+      "kodeautor": "bekk",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Bekk"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Rennende vann i naturlig vannvei, vanligvis bredere enn 3 meter."
+      },
+      "kode": "SN-F-R-E",
+      "kodeautor": "elv",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Elv"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Naturlig sving i elv eller bekk."
+      },
+      "kode": "SN-F-R-ES",
+      "kodeautor": "elvesving",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Elvesving"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Vann i tilnærmet fritt fall."
+      },
+      "kode": "SN-F-R-F",
+      "kodeautor": "foss",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Foss"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Kunstig fløtningsanlegg."
+      },
+      "kode": "SN-F-R-FA",
+      "kodeautor": "fløtningsanlegg",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Fløtningsanlegg"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Rennende vann i oppgravd vannvei, f.eks. dreneringsgrøft i myr."
+      },
+      "kode": "SN-F-R-G",
+      "kodeautor": "grøft",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Grøft"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Dyp elvebunn under foss eller etter et stryk."
+      },
+      "kode": "SN-F-R-H",
+      "kodeautor": "høl",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Høl"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Oppkomme, olle, kildeutspring, osv."
+      },
+      "kode": "SN-F-R-K",
+      "kodeautor": "kilde",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Kilde"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Utbuktning i elv eller bekk der vannet renner stille."
+      },
+      "kode": "SN-F-R-L",
+      "kodeautor": "lon",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Lon"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Landet mellom to møtende elver."
+      },
+      "kode": "SN-F-R-N",
+      "kodeautor": "nesVedElver",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Nes ved elver"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Innløp eller utløp av elv eller bekk i innsjø/vann/tjern eller sjø (saltvann)."
+      },
+      "kode": "SN-F-R-O",
+      "kodeautor": "os",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Os"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Del av elv, bekk der vannet går i stryk (og skiller seg tydelig fra resten av elva/bekken)."
+      },
+      "kode": "SN-F-R-S",
+      "kodeautor": "stryk",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Stryk"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper av ferskvann som ser ut til å stå stille."
+      },
+      "kode": "SN-F-S",
+      "kodeautor": "stilleståendeVann",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Stillestående vann"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Vann bak oppbygd hindring, oftest i en elv, for å få jevn vannføring til fløting, til kraftverk eller for å hindre skadeflom."
+      },
+      "kode": "SN-F-S-D",
+      "kodeautor": "dam",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Dam"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Mindre del av innsjø."
+      },
+      "kode": "SN-F-S-DA",
+      "kodeautor": "delAvInnsjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Del av innsjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "To eller flere vann."
+      },
+      "kode": "SN-F-S-G",
+      "kodeautor": "gruppeAvVann",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Gruppe av vann"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "To eller flere små tjern."
+      },
+      "kode": "SN-F-S-GA",
+      "kodeautor": "gruppeAvTjern",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Gruppe av tjern"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Stort vann."
+      },
+      "kode": "SN-F-S-I",
+      "kodeautor": "innsjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Innsjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Lite vannhull (mindre enn tjern)."
+      },
+      "kode": "SN-F-S-P",
+      "kodeautor": "pytt",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Pytt"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Lite vann."
+      },
+      "kode": "SN-F-S-T",
+      "kodeautor": "tjern",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Tjern"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Middels stort vann."
+      },
+      "kode": "SN-F-S-V",
+      "kodeautor": "vann",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Vann"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle grupper som er relevante under hovedgruppe infrastruktur. Tilsvarer Inspire temaet \"transportNetwork\"."
+      },
+      "kode": "SN-I",
+      "kodeautor": "infrastruktur",
+      "nivå": "Hovedgruppeinndelingen av navneobjekttyper.",
+      "tittel": {
+        "nb": "Infrastruktur"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver funksjoner knyttet til skinnegående kjøretøy."
+      },
+      "kode": "SN-I-B",
+      "kodeautor": "bane",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Bane"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Jernbanestrekning, tunnelbane eller trikkelinje/-strekning."
+      },
+      "kode": "SN-I-B-B",
+      "kodeautor": "banestrekning",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Banestrekning"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Ubetjent stoppested for jernbane, tunnelbane og/eller trikk."
+      },
+      "kode": "SN-I-B-H",
+      "kodeautor": "holdeplass",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Holdeplass"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Stoppested for jernbane, tunnelbane og/eller trikk. Som regel betjent."
+      },
+      "kode": "SN-I-B-S",
+      "kodeautor": "stasjon",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Stasjon"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver anlegg for energi produksjon og transport."
+      },
+      "kode": "SN-I-E",
+      "kodeautor": "energi",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Energi"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle typer kabler i sjø eller i ferskvann."
+      },
+      "kode": "SN-I-E-K",
+      "kodeautor": "kabel",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Kabel"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Store tilførselsrør for kraftanlegg."
+      },
+      "kode": "SN-I-E-KG",
+      "kodeautor": "kraftgateRørgate",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Kraftgate (rørgate)"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Stor strømoverføringsledning."
+      },
+      "kode": "SN-I-E-KL",
+      "kodeautor": "kraftledning",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Kraftledning"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle typer / alle størrelser til energiproduksjon (f.eks. el. og varme)."
+      },
+      "kode": "SN-I-E-KS",
+      "kodeautor": "kraftstasjon",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Kraftstasjon"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle typer rørledninger"
+      },
+      "kode": "SN-I-E-R",
+      "kodeautor": "rørledning",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Rørledning"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver anlegg for radiokommunikasjon."
+      },
+      "kode": "SN-I-K",
+      "kodeautor": "kommunikasjon",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Kommunikasjon"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle typer bakkebasert telekommunikasjon."
+      },
+      "kode": "SN-I-K-T",
+      "kodeautor": "tV-Radio-EllerMobiltelefontårn",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "TV-/radio- eller mobiltelefontårn"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver anlegg hvor luftfartøy lander og tar av."
+      },
+      "kode": "SN-I-L",
+      "kodeautor": "luftfart",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Luftfart"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Offentlig godkjent, avgrenset område med start- og landingsplass for fly."
+      },
+      "kode": "SN-I-L-F",
+      "kodeautor": "flyplass",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Flyplass"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Landingsplass for helikopter og/eller privatfly."
+      },
+      "kode": "SN-I-L-L",
+      "kodeautor": "landingsplass",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Landingsplass"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver navigasjonshjelpemidler for skipsfart."
+      },
+      "kode": "SN-I-N",
+      "kodeautor": "navigasjon",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Navigasjon"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Fast sjømerke. Sprinkelverk bygget i tre eller metall."
+      },
+      "kode": "SN-I-N-B",
+      "kodeautor": "båke",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Båke"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Linse og lyskilde anbrakt i hus eller liknende. Ikke flytende."
+      },
+      "kode": "SN-I-N-F",
+      "kodeautor": "fyrlykt",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Fyrlykt"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Automatisk og ubemannet. Et fast anlegg hvor linse og lyskilde er anbrakt i hus, tårn eller spesielt bygg. Ikke flytende."
+      },
+      "kode": "SN-I-N-FS",
+      "kodeautor": "fyrstasjon",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Fyrstasjon"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Fast sjømerke av typen jernstang eller jernsøyle."
+      },
+      "kode": "SN-I-N-J",
+      "kodeautor": "jernstang",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Jernstang"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Flytende innretning for farvannsmerking med en lanterne som lyskilde."
+      },
+      "kode": "SN-I-N-L",
+      "kodeautor": "lysbøye",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Lysbøye"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "En innretning hvor linsen med eller uten beskyttelsesglass utgjør en del av den bærende del av konstruksjonen. Ikke flytende."
+      },
+      "kode": "SN-I-N-LA",
+      "kodeautor": "lanterne",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Lanterne"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "To sjømerker, med eller uten lys, som, når de peiles på linje, viser kurs for gjennomseiling."
+      },
+      "kode": "SN-I-N-O",
+      "kodeautor": "overett",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Overett"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Varde av stein eller betong primært for navigering til sjøs."
+      },
+      "kode": "SN-I-N-S",
+      "kodeautor": "sjøvarde",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Sjømerke"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "(Som oftest) oppstablet stein som skal markere sti, grensemerke, trigonometrisk punkt o.l."
+      },
+      "kode": "SN-I-N-V",
+      "kodeautor": "varde",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Varde"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver anlegg som har tilknytning til sjøfart."
+      },
+      "kode": "SN-I-S",
+      "kodeautor": "sjøfart",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Sjøfart"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Opplagsplass for store fartøy."
+      },
+      "kode": "SN-I-S-A",
+      "kodeautor": "ankringsplass",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Ankringsplass"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Mindre, fastbygd bryggeanlegg."
+      },
+      "kode": "SN-I-S-B",
+      "kodeautor": "brygge",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Brygge"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Ferjekai i fast regulert ferjesamband."
+      },
+      "kode": "SN-I-S-F",
+      "kodeautor": "ferjekai",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Ferjekai"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Ferjesamband som inngår i områdets samferdselsnett."
+      },
+      "kode": "SN-I-S-FE",
+      "kodeautor": "ferjestrekning",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Ferjestrekning"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Allment kjent seglingslei/farvannsområde med dybdeforhold passende for skip av en viss størrelse."
+      },
+      "kode": "SN-I-S-FS",
+      "kodeautor": "farledSkipslei",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Farled/skipslei"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Sted der fartøy laster, losser eller søker ly for vær og sjø."
+      },
+      "kode": "SN-I-S-H",
+      "kodeautor": "havn",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Havn"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Større, fastbygd bryggeanlegg."
+      },
+      "kode": "SN-I-S-K",
+      "kodeautor": "kai",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Kai"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Kunstig eller naturlig vannvei eller gjennomseiling."
+      },
+      "kode": "SN-I-S-KA",
+      "kodeautor": "kanal",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Kanal"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Fast byggverk, utstikkende voll i sjøen."
+      },
+      "kode": "SN-I-S-M",
+      "kodeautor": "molo",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Molo"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Båtplass i vannkanten uten naust."
+      },
+      "kode": "SN-I-S-S",
+      "kodeautor": "stø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Stø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Regulert havneanlegg for småbåter."
+      },
+      "kode": "SN-I-S-SH",
+      "kodeautor": "småbåthavn",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Småbåthavn"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Kunstig løfteanretning for båter i vassdrag."
+      },
+      "kode": "SN-I-S-SL",
+      "kodeautor": "sluse",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Sluse"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Flytende bryggeanlegg."
+      },
+      "kode": "SN-I-S-U",
+      "kodeautor": "utstikker",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Utstikker"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver anlegg som brukes i forbindelse med transport, både for kjøretøy og til fots."
+      },
+      "kode": "SN-I-SA",
+      "kodeautor": "samferdselsanlegg",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Samferdselsanlegg"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Både på veg og jernbane."
+      },
+      "kode": "SN-I-SA-B",
+      "kodeautor": "bru",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Bru"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Større bomanlegg på offentlig veg."
+      },
+      "kode": "SN-I-SA-BS",
+      "kodeautor": "bomstasjon",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Bomstasjon"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Gondolbane og trallebane for frakt av folk."
+      },
+      "kode": "SN-I-SA-F",
+      "kodeautor": "fjellheis",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Fjellheis"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Trikkestall, bussgarasje, flyhangar eller lokomotivstall."
+      },
+      "kode": "SN-I-SA-G",
+      "kodeautor": "garasjeHangarbygg",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Garasje/hangarbygg"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Liten gangbru av stokker og/eller stein over bekker og elver, i myr eller i fjæra."
+      },
+      "kode": "SN-I-SA-K",
+      "kodeautor": "klopp",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Klopp"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Rasteplass definert og lagt til rette av Statens vegvesen eller annen offentlig myndighet."
+      },
+      "kode": "SN-I-SA-R",
+      "kodeautor": "rasteplass",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Rasteplass"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Vanlig tunnel, rasoverbygg eller undergang. Både på veg og jernbane."
+      },
+      "kode": "SN-I-SA-T",
+      "kodeautor": "tunnel",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Tunnel"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Mindre bomanlegg på privat veg."
+      },
+      "kode": "SN-I-SA-V",
+      "kodeautor": "vegbom",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Vegbom"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver objekter som brukes til ferdsel, både motorisert og til fots."
+      },
+      "kode": "SN-I-V",
+      "kodeautor": "veg",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Veg"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Offisielt adressenavn, veg-/gatenavn eller områdenavn, jf. § 2 bokstav e i matrikkelforskriften."
+      },
+      "kode": "SN-I-V-A",
+      "kodeautor": "adressenavn",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Adressenavn"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Et stedsnavn som er en del av den offisielle (veg-)adressen, jf. § 54 i matrikkelforskriften; vanligvis bruksnavn eller sjeldnere bygnings-/institusjonsnavn."
+      },
+      "kode": "SN-I-V-AT",
+      "kodeautor": "adressetilleggsnavn",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Adressetilleggsnavn"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Stoppested for rutegående vegtrafikk."
+      },
+      "kode": "SN-I-V-B",
+      "kodeautor": "busstopp",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Busstopp"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Allment kjent bakke på alle typer veger og gater."
+      },
+      "kode": "SN-I-V-BV",
+      "kodeautor": "bakkeVeg",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Bakke (Veg)"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Port i gjerde."
+      },
+      "kode": "SN-I-V-G",
+      "kodeautor": "grind",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Grind"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Et stedsnavn som inngår i den offiselle adressen ved matrikkeladresser, jf. § 55 tredje ledd i matrikkelforskriften."
+      },
+      "kode": "SN-I-V-M",
+      "kodeautor": "matrikkeladressenavn",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Matrikkeladressenavn"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Tomt (eller bygning) for parkering av biler."
+      },
+      "kode": "SN-I-V-P",
+      "kodeautor": "parkeringsplass",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Parkeringsplass"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Stistrekning, råk, slepe (gammel drifteveg), reindriftsveg."
+      },
+      "kode": "SN-I-V-S",
+      "kodeautor": "sti",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Sti"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Driftsveg anlagt for traktorbruk. Ikke fremkommelig med vanlig personbil."
+      },
+      "kode": "SN-I-V-T",
+      "kodeautor": "traktorveg",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Traktorveg"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Midlertidig lagringsplass for tømmer."
+      },
+      "kode": "SN-I-V-TV",
+      "kodeautor": "tømmervelte",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Tømmervelte"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Vadested, vanligvis der en stistrekning krysser elv, bekk eller vann."
+      },
+      "kode": "SN-I-V-V",
+      "kodeautor": "vad",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Vad"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Navn på vegstrekning som ikke nødvendigvis har et formelt vedtak, og ikke er det samme som adressenavnet. Det kan være f.eks. fjelloverganger, turistrekninger og ringveger rundt en by."
+      },
+      "kode": "SN-I-V-VE",
+      "kodeautor": "vegstrekning",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Vegstrekning"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Allment kjent vegkryss i alle typer veger og gater."
+      },
+      "kode": "SN-I-V-VK",
+      "kodeautor": "vegkryss",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Vegkryss"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Allment kjent sving på alle typer veger og gater."
+      },
+      "kode": "SN-I-V-VS",
+      "kodeautor": "vegsving",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Vegsving"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle grupper som er relevante under hovedgruppe Kultur. Tilsvarer Inspire temaet \"protctedSite\"."
+      },
+      "kode": "SN-K",
+      "kodeautor": "kultur",
+      "nivå": "Hovedgruppeinndelingen av navneobjekttyper.",
+      "tittel": {
+        "nb": "Kultur"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som er vernet som kulturminner."
+      },
+      "kode": "SN-K-K",
+      "kodeautor": "kulturminner",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Kulturminner"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle andre typer kulturdetaljer, f.eks. lekeplass, utkikkstårn, fiskeplass, og lignende."
+      },
+      "kode": "SN-K-K-A",
+      "kodeautor": "annenKulturdetalj",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Annen kulturdetalj"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle typer offersted."
+      },
+      "kode": "SN-K-K-O",
+      "kodeautor": "offersted",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Offersted"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Minnesmerke, arkeologiske funn o.l."
+      },
+      "kode": "SN-K-K-S",
+      "kodeautor": "severdighet",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Severdighet"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Både fra tårn og på bakken."
+      },
+      "kode": "SN-K-K-U",
+      "kodeautor": "utsiktspunkt",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Utsiktspunkt"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver institusjoner for kulturell aktivitet."
+      },
+      "kode": "SN-K-KI",
+      "kodeautor": "kulturinstitusjoner",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Kulturinstitusjoner"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Synagoge, moské, frikirke, menighetshus, kloster, gravkapell, bårehus, krematorium."
+      },
+      "kode": "SN-K-KI-A",
+      "kodeautor": "annenBygningForReligionsutøvelse",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Annen bygning for religionsutøvelse"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Teater, kino, samfunnshus, grendehus o.l."
+      },
+      "kode": "SN-K-KI-F",
+      "kodeautor": "forsamlingshusKulturhus",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Forsamlingshus/kulturhus"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle typer gravlunder, gravplasser."
+      },
+      "kode": "SN-K-KI-G",
+      "kodeautor": "gravplass",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Gravplass"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Kirke, kapell, arbeidskirke o.l."
+      },
+      "kode": "SN-K-KI-K",
+      "kodeautor": "kirke",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Kirke"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle typer museum, galleri og bibliotek."
+      },
+      "kode": "SN-K-KI-M",
+      "kodeautor": "museumGalleriBibliotek",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Museum/galleri/bibliotek"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle grupper som er relevante under hovedgruppe Markslag. Tilsvarer Inspire temaet \"landcover\"."
+      },
+      "kode": "SN-M",
+      "kodeautor": "markslag",
+      "nivå": "Hovedgruppeinndelingen av navneobjekttyper.",
+      "tittel": {
+        "nb": "Markslag"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver overflater av bart fjell."
+      },
+      "kode": "SN-M-B",
+      "kodeautor": "bartFjell",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Bart fjell"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Lite/ingen vegetasjon; sva, svaberg."
+      },
+      "kode": "SN-M-B-F",
+      "kodeautor": "fjellIDagen",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Fjell i dagen"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver ulike typer dyrket mark."
+      },
+      "kode": "SN-M-D",
+      "kodeautor": "dyrkamark",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Dyrkamark"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Kultivert slåtte-/gressmark."
+      },
+      "kode": "SN-M-D-E",
+      "kodeautor": "eng",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Eng"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Inngjerdet beitemark."
+      },
+      "kode": "SN-M-D-H",
+      "kodeautor": "havnehage",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Havnehage"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Kultivert dyrkningsmark."
+      },
+      "kode": "SN-M-D-J",
+      "kodeautor": "jorde",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Jorde"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Seterplass uten hus (ev. med enkelt skur) brukt til melking av husdyr."
+      },
+      "kode": "SN-M-D-M",
+      "kodeautor": "melkeplass",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Melkeplass"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Ryddet, gressbevokst område på seter uten hus."
+      },
+      "kode": "SN-M-D-S",
+      "kodeautor": "setervoll",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Setervoll"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Beitemark i skog og mark vekk fra garden (og innmarka)."
+      },
+      "kode": "SN-M-D-U",
+      "kodeautor": "utmark",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Utmark"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som er fryst."
+      },
+      "kode": "SN-M-I",
+      "kodeautor": "isOgPermafrost",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Is og permafrost"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Liten snø- eller isflate som vanligvis ikke smelter om sommeren."
+      },
+      "kode": "SN-M-I-F",
+      "kodeautor": "fonn",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Fonn"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Større sammenhengende snø- eller isområde som ikke smelter i løpet av sommeren."
+      },
+      "kode": "SN-M-I-I",
+      "kodeautor": "isbre",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Isbre"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver avsetting av løse masser."
+      },
+      "kode": "SN-M-L",
+      "kodeautor": "løsmasseavsetninger",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Løsmasseavsetninger"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Bratt sand-/grusskråning langs elv eller vann."
+      },
+      "kode": "SN-M-L-E",
+      "kodeautor": "elvemel",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Elvemel"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Finkornede avsetninger (sand og/eller grus)."
+      },
+      "kode": "SN-M-L-S",
+      "kodeautor": "sand",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Sand"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Område der det går eller har gått skred."
+      },
+      "kode": "SN-M-L-SO",
+      "kodeautor": "skredområde",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Skredområde"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Frittliggende steinblokk."
+      },
+      "kode": "SN-M-L-ST",
+      "kodeautor": "stein",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Stein"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Steinområde, steinrøys."
+      },
+      "kode": "SN-M-L-U",
+      "kodeautor": "ur",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Ur"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Sand-/grusområde i elvemunning, elvedelta både mot innsjø/vann og saltvann."
+      },
+      "kode": "SN-M-L-Ø",
+      "kodeautor": "øyr",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Øyr"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper av menneskeskapte uttak eller fyllinger."
+      },
+      "kode": "SN-M-U",
+      "kodeautor": "uttakOgDeponi",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Uttak og deponi"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Gruve, skjerp og mineraluttak i dagen eller under jorda."
+      },
+      "kode": "SN-M-U-B",
+      "kodeautor": "bergverk",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Bergverk"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Plass for deponering av masse som stein, jord og søppel."
+      },
+      "kode": "SN-M-U-F",
+      "kodeautor": "fyllplass",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Fyllplass"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Uttaksplass/-område for sand, grus, pukk, skifer eller stein."
+      },
+      "kode": "SN-M-U-G",
+      "kodeautor": "grustakSteinbrudd",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Grustak/steinbrudd"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Sted for uttak av myrtorv, brenntorv eller veksttorv."
+      },
+      "kode": "SN-M-U-T",
+      "kodeautor": "torvtak",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Torvtak"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver våt/fuktig mark."
+      },
+      "kode": "SN-M-V",
+      "kodeautor": "våtmark",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Våtmark"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle typer fra åpen gressmyr til våt moldjord dekket med kjerr."
+      },
+      "kode": "SN-M-V-M",
+      "kodeautor": "myr",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Myr"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver vegetasjonen."
+      },
+      "kode": "SN-M-VE",
+      "kodeautor": "vegetasjon",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Vegetasjon"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle typer fra stor barskog til og med vierkratt i Finnmark."
+      },
+      "kode": "SN-M-VE-S",
+      "kodeautor": "skog",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Skog"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Mindre samling av trær."
+      },
+      "kode": "SN-M-VE-SH",
+      "kodeautor": "skogholt",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Skogholt"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle grupper som er relevante under hovedgruppe offentlig administrasjon. Tilsvarer Inspire temaet \"administrativUnit\"."
+      },
+      "kode": "SN-O",
+      "kodeautor": "offentligAdministrasjon",
+      "nivå": "Hovedgruppeinndelingen av navneobjekttyper.",
+      "tittel": {
+        "nb": "Offentlig administrasjon"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver alle typer administrative inndelinger."
+      },
+      "kode": "SN-O-A",
+      "kodeautor": "administrativeIndelinger",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Administrative indelinger"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Offisielt navn på bydelsforvaltningen i et angitt område."
+      },
+      "kode": "SN-O-A-A",
+      "kodeautor": "administrativBydel",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Administrativ bydel"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Andre administrative inndelinger som ikke tilhører øvrige navneobjekttyper."
+      },
+      "kode": "SN-O-A-AA",
+      "kodeautor": "annenAdministrativInndeling",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Annen administrativ inndeling"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Offisielt navn."
+      },
+      "kode": "SN-O-A-F",
+      "kodeautor": "fylke",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Fylke"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Offisielt navn på grunnkrets."
+      },
+      "kode": "SN-O-A-G",
+      "kodeautor": "grunnkrets",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Grunnkrets"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Offisielt grensemerke"
+      },
+      "kode": "SN-O-A-GM",
+      "kodeautor": "grensemerke",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Grensemerke"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Offisielt navn."
+      },
+      "kode": "SN-O-A-K",
+      "kodeautor": "kommune",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Kommune"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Offisielt navn på selvstendig stat eller land."
+      },
+      "kode": "SN-O-A-N",
+      "kodeautor": "nasjon",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Nasjon"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Offisielt poststed/postnummerområde."
+      },
+      "kode": "SN-O-A-P",
+      "kodeautor": "poststed",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Poststed"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Kirkesokn i Den norske kirke."
+      },
+      "kode": "SN-O-A-S",
+      "kodeautor": "sokn",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Sokn"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Skolekrets definert av kommunen."
+      },
+      "kode": "SN-O-A-SK",
+      "kodeautor": "skolekrets",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Skolekrets"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Tettsted etter Statistisk sentralbyrås klassifisering som brukes for å lage statistikk over befolkning og tettsteder."
+      },
+      "kode": "SN-O-A-ST",
+      "kodeautor": "statistiskTettsted",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Statistisk tettsted"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som regulerer vern og bruksrettigheter."
+      },
+      "kode": "SN-O-V",
+      "kodeautor": "verne-OgBruksområder",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Verne- og bruksområder"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Område hvor rettighetene er regulert og fordelt på flere."
+      },
+      "kode": "SN-O-V-A",
+      "kodeautor": "allmenning",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Allmenning"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Bane for øvelse el. konkurranse i skyting."
+      },
+      "kode": "SN-O-V-S",
+      "kodeautor": "skytebane",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Skytebane"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Militært sprengingsfelt, bombe- og skytefelt, både på land og sjø."
+      },
+      "kode": "SN-O-V-SF",
+      "kodeautor": "skytefelt",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Skytefelt"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Fiskerisone, havrettssone og lignende."
+      },
+      "kode": "SN-O-V-SH",
+      "kodeautor": "soneinndelingTilHavs",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Soneinndeling til havs"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Et område med spesiell natur- og/eller kulturverdi som er formelt vedtatt vernet etter offentlig regelverk. Alle typer, både på sjø og land."
+      },
+      "kode": "SN-O-V-V",
+      "kodeautor": "verneområde",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Verneområde"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle grupper som er relevante under hovedgruppe Sjø. Under Inspire temaet \"hydrography\" som vi har delt i to."
+      },
+      "kode": "SN-S",
+      "kodeautor": "sjø",
+      "nivå": "Hovedgruppeinndelingen av navneobjekttyper.",
+      "tittel": {
+        "nb": "Sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver detaljer i sjøen."
+      },
+      "kode": "SN-S-D",
+      "kodeautor": "detaljISjø",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Detalj i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Detalj som ikke dekkes av andre sjø-navneobjekttyper."
+      },
+      "kode": "SN-S-D-S",
+      "kodeautor": "sjødetalj",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Sjødetalj"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver større områder av sjø."
+      },
+      "kode": "SN-S-F",
+      "kodeautor": "farvann",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Farvann"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Arm av havet inn i fastlandet."
+      },
+      "kode": "SN-S-F-F",
+      "kodeautor": "fjord",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Fjord"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Område ytterst i en fjord."
+      },
+      "kode": "SN-S-F-FM",
+      "kodeautor": "fjordmunning",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Fjordmunning"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Navngitt fiskested; fiskemed."
+      },
+      "kode": "SN-S-F-FS",
+      "kodeautor": "fiskeplassISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Fiskeplass i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Kontinuerlig bevegelse av vann (i havet) på grunn av klimatiske forhold eller tidevann."
+      },
+      "kode": "SN-S-F-H",
+      "kodeautor": "havstrøm",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Havstrøm"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Del av et hav."
+      },
+      "kode": "SN-S-F-HO",
+      "kodeautor": "havområde",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Havområde"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Stykke av sjøen utanfor land, vanligvis innaskjærs eller i kystnære farvann."
+      },
+      "kode": "SN-S-F-S",
+      "kodeautor": "sjøstykke",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Sjøstykke"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper under havflaten som stikker høyere opp enn resten av området, men ikke vesentlig over vannflaten."
+      },
+      "kode": "SN-S-G",
+      "kodeautor": "grunnerISjø",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Grunner i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Spiss grunne; blindskjær som sjøen bryter over."
+      },
+      "kode": "SN-S-G-B",
+      "kodeautor": "båeISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Båe i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Markant forhøyning av havbunnen."
+      },
+      "kode": "SN-S-G-G",
+      "kodeautor": "grunneISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Grunne i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Fjellknatt på sjøbunnen."
+      },
+      "kode": "SN-S-G-K",
+      "kodeautor": "klakkISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Klakk i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Bergrunn nær eller rett over vannflaten."
+      },
+      "kode": "SN-S-G-S",
+      "kodeautor": "skjærISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Skjær i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver grensa mellom sjø og tørt land."
+      },
+      "kode": "SN-S-K",
+      "kodeautor": "kystkontur",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Kystkontur"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Landstripe med sjø på begge sider som binder sammen to landområder."
+      },
+      "kode": "SN-S-K-E",
+      "kodeautor": "eidISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Eid i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Liten øy."
+      },
+      "kode": "SN-S-K-H",
+      "kodeautor": "holmeISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Holme i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "To eller flere små øyer."
+      },
+      "kode": "SN-S-K-HG",
+      "kodeautor": "holmegruppeISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Holmegruppe i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Større nes med smalt eid mot fastland."
+      },
+      "kode": "SN-S-K-HØ",
+      "kodeautor": "halvøyISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Halvøy i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Landområde stikkende ut i sjø."
+      },
+      "kode": "SN-S-K-N",
+      "kodeautor": "nesISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Nes i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Innsnevret område mellom øyer eller fastland."
+      },
+      "kode": "SN-S-K-S",
+      "kodeautor": "sundISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Sund i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Sand-, grus- eller steindekket område i sjøkanten."
+      },
+      "kode": "SN-S-K-SS",
+      "kodeautor": "strandISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Strand i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Kil, bukt."
+      },
+      "kode": "SN-S-K-V",
+      "kodeautor": "vikISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Vik i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Fjordarm, større vik."
+      },
+      "kode": "SN-S-K-VS",
+      "kodeautor": "vågISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Våg i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Tørt landområde atskilt fra fastlandet."
+      },
+      "kode": "SN-S-K-Ø",
+      "kodeautor": "øyISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Øy i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "To eller flere øyer."
+      },
+      "kode": "SN-S-K-ØG",
+      "kodeautor": "øygruppeISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Øygruppe i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver sjøbunnen."
+      },
+      "kode": "SN-S-S",
+      "kodeautor": "sjøbunn",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Sjøbunn"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Skrånende sjøbunn."
+      },
+      "kode": "SN-S-S-B",
+      "kodeautor": "bakkeISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Bakke i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Vid, undersjøisk dal."
+      },
+      "kode": "SN-S-S-BA",
+      "kodeautor": "bassengISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Basseng i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Større grunt område i sjøen med dypere vann omkring; fiskegrunn."
+      },
+      "kode": "SN-S-S-BS",
+      "kodeautor": "bankeISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Banke i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Undersjøisk knaus, kolle eller haug."
+      },
+      "kode": "SN-S-S-BT",
+      "kodeautor": "bakketoppISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Bakketopp i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Undersjøisk kant mot havdyp."
+      },
+      "kode": "SN-S-S-E",
+      "kodeautor": "eggISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Egg i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Stort, dypt område i havet."
+      },
+      "kode": "SN-S-S-H",
+      "kodeautor": "havdyp",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Havdyp"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Rev som er dannet av koraller."
+      },
+      "kode": "SN-S-S-K",
+      "kodeautor": "korallrev",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Korallrev"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Stor, flat forhøyning som skiller seg fra havbunnen omkring."
+      },
+      "kode": "SN-S-S-P",
+      "kodeautor": "platåISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Platå i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Undersjøisk ås, åskam eller fjellrygg."
+      },
+      "kode": "SN-S-S-R",
+      "kodeautor": "ryggISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Rygg i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Undersjøisk dal, kanal, senkning, ravine, fure, spor, rille o.l."
+      },
+      "kode": "SN-S-S-RK",
+      "kodeautor": "renneKløftISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Renne/Kløft i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Stor eller liten grop på sjøbunnen."
+      },
+      "kode": "SN-S-S-S",
+      "kodeautor": "søkkISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Søkk i sjø"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Fjellside i havet."
+      },
+      "kode": "SN-S-S-U",
+      "kodeautor": "undersjøiskVegg",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Undersjøisk vegg"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Alle grupper som beskriver terrengformasjoner. Tilsvarer Inspire temaet \"landform\"."
+      },
+      "kode": "SN-T",
+      "kodeautor": "terreng",
+      "nivå": "Hovedgruppeinndelingen av navneobjekttyper.",
+      "tittel": {
+        "nb": "Terreng"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som flate terrengområder."
+      },
+      "kode": "SN-T-F",
+      "kodeautor": "flater",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Flater"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Større, flatt landområde (ofte skogkledd)."
+      },
+      "kode": "SN-T-F-M",
+      "kodeautor": "mo",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Mo"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Åpent, flatt område."
+      },
+      "kode": "SN-T-F-S",
+      "kodeautor": "slette",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Slette"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som er høyere enn andre objektyper i samme område."
+      },
+      "kode": "SN-T-H",
+      "kodeautor": "høyder",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Høyder"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Markert eller avrunda høyde med stein, steinmasse (med eller uten vegetasjon)."
+      },
+      "kode": "SN-T-H-B",
+      "kodeautor": "berg",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Berg"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Høyereliggende område (over tregrensa) med stein og sva og lite vegetasjon som reiser seg over landskapet omkring (med høye berg og nuter)."
+      },
+      "kode": "SN-T-H-F",
+      "kodeautor": "fjell",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Fjell"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Aksel, skulder, nese og bryn."
+      },
+      "kode": "SN-T-H-FK",
+      "kodeautor": "fjellkant",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Fjellkant"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Berglendt, høyere beliggende område med beitemark."
+      },
+      "kode": "SN-T-H-H",
+      "kodeautor": "hei",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Hei"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Liten, markant forhøynet terrengform."
+      },
+      "kode": "SN-T-H-HA",
+      "kodeautor": "haug",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Haug"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Høyereliggende terrengform, mindre omfattende enn ås og større enn haug."
+      },
+      "kode": "SN-T-H-HØ",
+      "kodeautor": "høyde",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Høyde"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Langstrakt terrengform."
+      },
+      "kode": "SN-T-H-R",
+      "kodeautor": "rygg",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Rygg"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Tind, markant topp på fjell, berg, ås osv."
+      },
+      "kode": "SN-T-H-T",
+      "kodeautor": "topp",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Topp"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Langstrakt høydedrag."
+      },
+      "kode": "SN-T-H-Å",
+      "kodeautor": "ås",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Ås"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som er senket ned i forhold til andre objekttyper i samme område."
+      },
+      "kode": "SN-T-S",
+      "kodeautor": "senkninger",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Senkninger"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Innerste del av en dal; rundaktig, bratt dal eller uthulning i fjellet."
+      },
+      "kode": "SN-T-S-B",
+      "kodeautor": "botn",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Botn"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Mellomstor eller liten dal."
+      },
+      "kode": "SN-T-S-D",
+      "kodeautor": "dal",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Dal"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Stor dal med sidedaler."
+      },
+      "kode": "SN-T-S-DF",
+      "kodeautor": "dalføre",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Dalføre"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Kløftlignende dal eller canyon."
+      },
+      "kode": "SN-T-S-J",
+      "kodeautor": "juv",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Juv"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Skål- eller traktformet senkning i jordoverflaten forårsaket av vulkansk aktivitet eller av meteorittnedslag."
+      },
+      "kode": "SN-T-S-K",
+      "kodeautor": "krater",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Krater"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Markant senkning i fjell eller berg."
+      },
+      "kode": "SN-T-S-S",
+      "kodeautor": "skar",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Skar"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Flat forsenkning, dalsenkning."
+      },
+      "kode": "SN-T-S-SE",
+      "kodeautor": "senkning",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Senkning"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Mindre markant, begrenset fordypning."
+      },
+      "kode": "SN-T-S-SØ",
+      "kodeautor": "søkk",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Søkk"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver hellende terreng."
+      },
+      "kode": "SN-T-SK",
+      "kodeautor": "skråninger",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Skråninger"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Terrengskråning, særlig om siden av en ås eller haug."
+      },
+      "kode": "SN-T-SK-B",
+      "kodeautor": "bakke",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Bakke"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Åpent, skrånende terreng i fjellet."
+      },
+      "kode": "SN-T-SK-F",
+      "kodeautor": "fjellside",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Fjellside"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Skrånende terreng."
+      },
+      "kode": "SN-T-SK-L",
+      "kodeautor": "li",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Li"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver terrengoverflate over større områder."
+      },
+      "kode": "SN-T-T",
+      "kodeautor": "terrengområder",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Terrengområder"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Større område med fjell og fjellandskap."
+      },
+      "kode": "SN-T-T-F",
+      "kodeautor": "fjellområde",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Fjellområde"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Område der drag i landskapet, naturforhold, arealbruk og bosetting er samlende og skiller seg fra tilgrensende områder."
+      },
+      "kode": "SN-T-T-L",
+      "kodeautor": "landskapsområde",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Landskapsområde"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Større område med skog og mark."
+      },
+      "kode": "SN-T-T-S",
+      "kodeautor": "skogområde",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Skogområde"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Høyereliggende (fjell)område med lite høydevariasjoner innenfor området, som regel over tregrensa."
+      },
+      "kode": "SN-T-T-V",
+      "kodeautor": "vidde",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Vidde"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Samlegruppe for objekttyper som beskriver spesielle terrengdetaljer."
+      },
+      "kode": "SN-T-TD",
+      "kodeautor": "terrengdetaljer",
+      "nivå": "Gruppeinndelingen av navneobjekttypene",
+      "tittel": {
+        "nb": "Terrengdetaljer"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Små detaljer som ikke dekkes av andre navneobjekttyper innenfor kategorien."
+      },
+      "kode": "SN-T-TD-A",
+      "kodeautor": "annenTerrengdetalj",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Annen terrengdetalj"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Naturlig fjellgrotte."
+      },
+      "kode": "SN-T-TD-G",
+      "kodeautor": "grotte",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Grotte"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Navngitt struktur/formasjon i berggrunnen."
+      },
+      "kode": "SN-T-TD-GS",
+      "kodeautor": "geologiskStruktur",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Geologisk struktur"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Flatt, tilnærmet vannrett område i fjellside."
+      },
+      "kode": "SN-T-TD-H",
+      "kodeautor": "hylle",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Hylle"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Utoverhengende bergvegg eller berghule."
+      },
+      "kode": "SN-T-TD-HE",
+      "kodeautor": "heller",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Heller"
+      }
+    },
+    {
+      "ingress": {
+        "nb": "Loddrett, svært bratt berg."
+      },
+      "kode": "SN-T-TD-S",
+      "kodeautor": "stup",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Stup"
+      }
+    }
+  ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2019-09-14T18:20:30.492Z",
+    "produsertUtc": "2019-09-18T12:50:49.544Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/stedsnavn/master/type.json",
     "tool": {
       "name": "stedsnavn-lastejobb"
     },
     "elementer": 302
-  }
+  },
+  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/stedsnavn/master/type.schema.json#"
 }
