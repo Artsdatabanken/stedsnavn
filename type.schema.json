@@ -10,6 +10,12 @@
           "farge": {
             "type": "string"
           },
+          "foreldre": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
           "kode": {
             "type": "string"
           },
@@ -24,6 +30,9 @@
               }
             }
           },
+          "url": {
+            "type": "string"
+          },
           "ingress": {
             "type": "object",
             "properties": {
@@ -37,9 +46,11 @@
           }
         },
         "required": [
+          "foreldre",
           "kode",
           "nivå",
           "tittel",
+          "url",
           "ingress",
           "kodeautor"
         ]
@@ -65,6 +76,9 @@
           "properties": {
             "name": {
               "type": "string"
+            },
+            "url": {
+              "type": "null"
             }
           }
         },
@@ -76,5 +90,15 @@
     "$schema": {
       "type": "string"
     }
+  },
+  "meta": {
+    "tittel": "Type.schema",
+    "produsertUtc": "2019-09-29T10:06:25.813Z",
+    "utgiver": "Artsdatabanken",
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/stedsnavn/master/type.schema.json",
+    "tool": {
+      "name": "stedsnavn-lastejobb"
+    },
+    "elementer": 3
   }
 }
