@@ -3855,6 +3855,21 @@
         "SN-S-S"
       ],
       "ingress": {
+        "nb": "Undersjøisk benk; klippeavsats, kant, fremspring, avsats."
+      },
+      "kode": "SN-S-S-HS",
+      "kodeautor": "hylleISjø",
+      "nivå": "Navneobjekttypene som stedsnavn er delt inn i.",
+      "tittel": {
+        "nb": "Hylle i sjø"
+      },
+      "url": "/Sted/Sjø/Sjøbunn/Hylle_i_sjø"
+    },
+    {
+      "foreldre": [
+        "SN-S-S"
+      ],
+      "ingress": {
         "nb": "Rev som er dannet av koraller."
       },
       "kode": "SN-S-S-K",
@@ -4528,13 +4543,13 @@
   ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2019-09-29T10:06:25.800Z",
+    "produsertUtc": "2019-11-25T22:01:57.027Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/stedsnavn/master/type.json",
     "tool": {
       "name": "stedsnavn-lastejobb"
     },
-    "elementer": 302
+    "elementer": 303
   },
   "$schema": "https://raw.githubusercontent.com/Artsdatabanken/stedsnavn/master/type.schema.json#"
 }
