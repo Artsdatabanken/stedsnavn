@@ -5,7 +5,7 @@
       "kode": "SN-B-B-B"
     },
     {
-      "id": 210,
+      "id": 209,
       "kode": "SN-B-B-BB"
     },
     {
@@ -45,7 +45,7 @@
       "kode": "SN-B-BS-H"
     },
     {
-      "id": 221,
+      "id": 220,
       "kode": "SN-B-BS-HB"
     },
     {
@@ -69,7 +69,7 @@
       "kode": "SN-B-BS-TE"
     },
     {
-      "id": 214,
+      "id": 213,
       "kode": "SN-B-F-A"
     },
     {
@@ -185,7 +185,7 @@
       "kode": "SN-B-N-H"
     },
     {
-      "id": 226,
+      "id": 225,
       "kode": "SN-B-N-O"
     },
     {
@@ -357,7 +357,7 @@
       "kode": "SN-I-E-KG"
     },
     {
-      "id": 219,
+      "id": 218,
       "kode": "SN-I-E-KL"
     },
     {
@@ -365,7 +365,7 @@
       "kode": "SN-I-E-KS"
     },
     {
-      "id": 215,
+      "id": 214,
       "kode": "SN-I-E-R"
     },
     {
@@ -417,7 +417,7 @@
       "kode": "SN-I-N-V"
     },
     {
-      "id": 217,
+      "id": 216,
       "kode": "SN-I-S-A"
     },
     {
@@ -429,7 +429,7 @@
       "kode": "SN-I-S-F"
     },
     {
-      "id": 216,
+      "id": 215,
       "kode": "SN-I-S-FE"
     },
     {
@@ -461,7 +461,7 @@
       "kode": "SN-I-S-SH"
     },
     {
-      "id": 230,
+      "id": 228,
       "kode": "SN-I-S-SL"
     },
     {
@@ -473,7 +473,7 @@
       "kode": "SN-I-SA-B"
     },
     {
-      "id": 211,
+      "id": 210,
       "kode": "SN-I-SA-BS"
     },
     {
@@ -481,7 +481,7 @@
       "kode": "SN-I-SA-F"
     },
     {
-      "id": 223,
+      "id": 222,
       "kode": "SN-I-SA-G"
     },
     {
@@ -517,11 +517,11 @@
       "kode": "SN-I-V-BV"
     },
     {
-      "id": 213,
+      "id": 212,
       "kode": "SN-I-V-G"
     },
     {
-      "id": 253,
+      "id": 254,
       "kode": "SN-I-V-M"
     },
     {
@@ -553,7 +553,7 @@
       "kode": "SN-I-V-VK"
     },
     {
-      "id": 229,
+      "id": 227,
       "kode": "SN-I-V-VS"
     },
     {
@@ -637,7 +637,7 @@
       "kode": "SN-M-L-S"
     },
     {
-      "id": 222,
+      "id": 221,
       "kode": "SN-M-L-SO"
     },
     {
@@ -657,7 +657,7 @@
       "kode": "SN-M-U-B"
     },
     {
-      "id": 225,
+      "id": 224,
       "kode": "SN-M-U-F"
     },
     {
@@ -681,7 +681,7 @@
       "kode": "SN-M-VE-SH"
     },
     {
-      "id": 212,
+      "id": 211,
       "kode": "SN-O-A-A"
     },
     {
@@ -689,7 +689,7 @@
       "kode": "SN-O-A-AA"
     },
     {
-      "id": 208,
+      "id": 230,
       "kode": "SN-O-A-F"
     },
     {
@@ -713,7 +713,7 @@
       "kode": "SN-O-A-P"
     },
     {
-      "id": 224,
+      "id": 223,
       "kode": "SN-O-A-S"
     },
     {
@@ -733,7 +733,7 @@
       "kode": "SN-O-V-S"
     },
     {
-      "id": 227,
+      "id": 226,
       "kode": "SN-O-V-SF"
     },
     {
@@ -745,7 +745,7 @@
       "kode": "SN-O-V-V"
     },
     {
-      "id": 220,
+      "id": 219,
       "kode": "SN-S-D-S"
     },
     {
@@ -753,7 +753,7 @@
       "kode": "SN-S-F-F"
     },
     {
-      "id": 218,
+      "id": 217,
       "kode": "SN-S-F-FM"
     },
     {
@@ -841,7 +841,7 @@
       "kode": "SN-S-S-BA"
     },
     {
-      "id": 209,
+      "id": 208,
       "kode": "SN-S-S-BS"
     },
     {
@@ -857,7 +857,11 @@
       "kode": "SN-S-S-H"
     },
     {
-      "id": 228,
+      "id": 253,
+      "kode": "SN-S-S-HS"
+    },
+    {
+      "id": 229,
       "kode": "SN-S-S-K"
     },
     {
@@ -1011,13 +1015,13 @@
   ],
   "meta": {
     "tittel": "Steder kategori",
-    "produsertUtc": "2019-09-29T10:06:25.388Z",
+    "produsertUtc": "2019-11-25T22:00:08.884Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/stedsnavn/master/steder_kategori.json",
     "tool": {
       "name": "stedsnavn-lastejobb"
     },
-    "elementer": 252
+    "elementer": 253
   },
   "$schema": "https://raw.githubusercontent.com/Artsdatabanken/stedsnavn/master/steder_kategori.schema.json#"
 }
