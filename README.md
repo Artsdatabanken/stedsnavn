@@ -6,7 +6,7 @@ Stedsnavn fra sentralt stedsnavn register (SSR). Data brukes av [stedsnavn-api](
 
 ### Dataflyt
 
-[![Dataflyt](https://github.com/Artsdatabanken/datakilde-lastejobb/raw/master/doc/dataflyt.png)](https://artsdatabanken.github.io/datakilde-lastejobb/)
+[![Dataflyt](https://github.com/Artsdatabanken/stedsnavn-lastejobb/raw/master/doc/dataflyt.png)](https://artsdatabanken.github.io/stedsnavn-lastejobb/)
 
 ### Tegnforklaring
 
