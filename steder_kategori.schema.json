@@ -86,24 +86,24 @@
   },
   "meta": {
     "tittel": "Steder kategori.schema",
-    "produsertUtc": "2023-03-22T11:24:20.010Z",
+    "produsertUtc": "2023-03-22T12:02:28.380Z",
     "utgiver": "Artsdatabanken",
     "url": null,
     "tool": {
       "name": "@artsdatabanken/lastejobb",
-      "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/9dae766cd225401b73fc0fc53f2f8c07cd3feb37"
+      "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/4e3c226b9f91f87f22d6eed40a2e9f6a6da0cd10"
     },
     "elementer": 3,
     "source": [
       {
         "name": "inn_kategori.json",
         "tittel": "Inn kategori",
-        "produsertUtc": "2023-03-22T11:24:19.601Z",
+        "produsertUtc": "2023-03-22T12:02:27.920Z",
         "utgiver": "Artsdatabanken",
         "url": null,
         "tool": {
           "name": "@artsdatabanken/lastejobb",
-          "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/9dae766cd225401b73fc0fc53f2f8c07cd3feb37"
+          "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/4e3c226b9f91f87f22d6eed40a2e9f6a6da0cd10"
         },
         "elementer": 0,
         "source": []
