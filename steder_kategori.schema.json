@@ -1,68 +1,113 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "type": "object",
-  "properties": {
-    "items": {
-      "type": "array",
+  "items": {
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "properties": {
       "items": {
-        "type": "object",
+        "items": {},
+        "type": "array"
+      },
+      "meta": {
         "properties": {
-          "id": {
+          "elementer": {
             "type": "number"
           },
-          "kode": {
+          "produsertUtc": {
+            "type": "string"
+          },
+          "source": {
+            "items": {
+              "properties": {
+                "elementer": {
+                  "type": "number"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "produsertUtc": {
+                  "type": "string"
+                },
+                "source": {
+                  "items": {},
+                  "type": "array"
+                },
+                "tittel": {
+                  "type": "string"
+                },
+                "tool": {
+                  "properties": {
+                    "commit": {
+                      "type": "string"
+                    },
+                    "name": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                },
+                "url": {
+                  "type": "null"
+                },
+                "utgiver": {
+                  "type": "string"
+                }
+              },
+              "type": "object"
+            },
+            "type": "array"
+          },
+          "tittel": {
+            "type": "string"
+          },
+          "tool": {
+            "properties": {
+              "commit": {
+                "type": "string"
+              },
+              "name": {
+                "type": "string"
+              },
+              "url": {
+                "type": "null"
+              }
+            },
+            "type": "object"
+          },
+          "url": {
+            "type": "null"
+          },
+          "utgiver": {
             "type": "string"
           }
         },
-        "required": [
-          "id",
-          "kode"
-        ]
+        "type": "object"
       }
     },
-    "meta": {
-      "type": "object",
-      "properties": {
-        "tittel": {
-          "type": "string"
-        },
-        "produsertUtc": {
-          "type": "string"
-        },
-        "utgiver": {
-          "type": "string"
-        },
-        "url": {
-          "type": "string"
-        },
-        "tool": {
-          "type": "object",
-          "properties": {
-            "name": {
-              "type": "string"
-            },
-            "url": {
-              "type": "null"
-            }
-          }
-        },
-        "elementer": {
-          "type": "number"
-        }
-      }
-    },
-    "$schema": {
-      "type": "string"
-    }
+    "type": "object"
   },
   "meta": {
     "tittel": "Steder kategori.schema",
-    "produsertUtc": "2019-11-25T22:00:08.890Z",
+    "produsertUtc": "2023-03-22T08:47:04.882Z",
     "utgiver": "Artsdatabanken",
-    "url": "https://raw.githubusercontent.com/Artsdatabanken/stedsnavn/master/steder_kategori.schema.json",
+    "url": null,
     "tool": {
-      "name": "stedsnavn-lastejobb"
+      "name": "@artsdatabanken/lastejobb",
+      "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/39ba38a826aa4cd20e31a3f357a8886e9fa0add9"
     },
-    "elementer": 3
+    "elementer": 3,
+    "source": [
+      {
+        "name": "inn_kategori.json",
+        "tittel": "Inn kategori",
+        "produsertUtc": "2023-03-22T08:47:04.495Z",
+        "utgiver": "Artsdatabanken",
+        "url": null,
+        "tool": {
+          "name": "@artsdatabanken/lastejobb",
+          "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/39ba38a826aa4cd20e31a3f357a8886e9fa0add9"
+        },
+        "elementer": 0,
+        "source": []
+      }
+    ]
   }
 }

@@ -1,104 +1,243 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "type": "object",
-  "properties": {
-    "items": {
-      "type": "array",
+  "items": {
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "properties": {
       "items": {
-        "type": "object",
-        "properties": {
-          "farge": {
-            "type": "string"
-          },
-          "foreldre": {
-            "type": "array",
-            "items": {
-              "type": "string"
-            }
-          },
-          "kode": {
-            "type": "string"
-          },
-          "nivå": {
-            "type": "string"
-          },
-          "tittel": {
-            "type": "object",
-            "properties": {
-              "nb": {
-                "type": "string"
-              }
-            }
-          },
-          "url": {
-            "type": "string"
-          },
-          "ingress": {
-            "type": "object",
-            "properties": {
-              "nb": {
-                "type": "string"
-              }
-            }
-          },
-          "kodeautor": {
-            "type": "string"
-          }
-        },
-        "required": [
-          "foreldre",
-          "kode",
-          "nivå",
-          "tittel",
-          "url",
-          "ingress",
-          "kodeautor"
-        ]
-      }
-    },
-    "meta": {
-      "type": "object",
-      "properties": {
-        "tittel": {
-          "type": "string"
-        },
-        "produsertUtc": {
-          "type": "string"
-        },
-        "utgiver": {
-          "type": "string"
-        },
-        "url": {
-          "type": "string"
-        },
-        "tool": {
-          "type": "object",
+        "items": {
           "properties": {
-            "name": {
+            "farge": {
               "type": "string"
             },
+            "foreldre": {
+              "items": {},
+              "type": "array"
+            },
+            "kode": {
+              "type": "string"
+            },
+            "nivå": {
+              "type": "string"
+            },
+            "tittel": {
+              "properties": {
+                "nb": {
+                  "type": "string"
+                }
+              },
+              "type": "object"
+            },
             "url": {
-              "type": "null"
+              "type": "string"
             }
+          },
+          "type": "object"
+        },
+        "type": "array"
+      },
+      "meta": {
+        "properties": {
+          "elementer": {
+            "type": "number"
+          },
+          "produsertUtc": {
+            "type": "string"
+          },
+          "source": {
+            "items": {
+              "properties": {
+                "elementer": {
+                  "type": "number"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "produsertUtc": {
+                  "type": "string"
+                },
+                "source": {
+                  "items": {
+                    "properties": {
+                      "elementer": {
+                        "type": "number"
+                      },
+                      "name": {
+                        "type": "string"
+                      },
+                      "produsertUtc": {
+                        "type": "string"
+                      },
+                      "source": {
+                        "items": {
+                          "properties": {
+                            "elementer": {
+                              "type": "number"
+                            },
+                            "name": {
+                              "type": "string"
+                            },
+                            "produsertUtc": {
+                              "type": "string"
+                            },
+                            "source": {
+                              "items": {},
+                              "type": "array"
+                            },
+                            "tittel": {
+                              "type": "string"
+                            },
+                            "tool": {
+                              "properties": {
+                                "commit": {
+                                  "type": "string"
+                                },
+                                "name": {
+                                  "type": "string"
+                                }
+                              },
+                              "type": "object"
+                            },
+                            "url": {
+                              "type": "null"
+                            },
+                            "utgiver": {
+                              "type": "string"
+                            }
+                          },
+                          "type": "object"
+                        },
+                        "type": "array"
+                      },
+                      "tittel": {
+                        "type": "string"
+                      },
+                      "tool": {
+                        "properties": {
+                          "commit": {
+                            "type": "string"
+                          },
+                          "name": {
+                            "type": "string"
+                          }
+                        },
+                        "type": "object"
+                      },
+                      "url": {
+                        "type": "null"
+                      },
+                      "utgiver": {
+                        "type": "string"
+                      }
+                    },
+                    "type": "object"
+                  },
+                  "type": "array"
+                },
+                "tittel": {
+                  "type": "string"
+                },
+                "tool": {
+                  "properties": {
+                    "commit": {
+                      "type": "string"
+                    },
+                    "name": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                },
+                "url": {
+                  "type": "null"
+                },
+                "utgiver": {
+                  "type": "string"
+                }
+              },
+              "type": "object"
+            },
+            "type": "array"
+          },
+          "tittel": {
+            "type": "string"
+          },
+          "tool": {
+            "properties": {
+              "commit": {
+                "type": "string"
+              },
+              "name": {
+                "type": "string"
+              },
+              "url": {
+                "type": "null"
+              }
+            },
+            "type": "object"
+          },
+          "url": {
+            "type": "null"
+          },
+          "utgiver": {
+            "type": "string"
           }
         },
-        "elementer": {
-          "type": "number"
-        }
+        "type": "object"
       }
     },
-    "$schema": {
-      "type": "string"
-    }
+    "type": "object"
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-11-25T22:01:57.038Z",
+    "produsertUtc": "2023-03-22T08:47:05.382Z",
     "utgiver": "Artsdatabanken",
-    "url": "https://raw.githubusercontent.com/Artsdatabanken/stedsnavn/master/type.schema.json",
+    "url": null,
     "tool": {
-      "name": "stedsnavn-lastejobb"
+      "name": "@artsdatabanken/lastejobb",
+      "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/39ba38a826aa4cd20e31a3f357a8886e9fa0add9"
     },
-    "elementer": 3
+    "elementer": 3,
+    "source": [
+      {
+        "name": "alle",
+        "tittel": "Alle",
+        "produsertUtc": "2023-03-22T08:47:05.168Z",
+        "utgiver": "Artsdatabanken",
+        "url": null,
+        "tool": {
+          "name": "@artsdatabanken/lastejobb",
+          "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/39ba38a826aa4cd20e31a3f357a8886e9fa0add9"
+        },
+        "elementer": 1,
+        "source": [
+          {
+            "name": "autor2kode",
+            "tittel": "Autor2kode",
+            "produsertUtc": "2023-03-22T08:47:04.880Z",
+            "utgiver": "Artsdatabanken",
+            "url": null,
+            "tool": {
+              "name": "@artsdatabanken/lastejobb",
+              "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/39ba38a826aa4cd20e31a3f357a8886e9fa0add9"
+            },
+            "elementer": 0,
+            "source": [
+              {
+                "name": "inn_kategori.json",
+                "tittel": "Inn kategori",
+                "produsertUtc": "2023-03-22T08:47:04.495Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "@artsdatabanken/lastejobb",
+                  "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/39ba38a826aa4cd20e31a3f357a8886e9fa0add9"
+                },
+                "elementer": 0,
+                "source": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 }
