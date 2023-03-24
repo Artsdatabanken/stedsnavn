@@ -13,48 +13,48 @@
   ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2023-03-24T08:35:29.275Z",
+    "produsertUtc": "2023-03-24T09:30:52.405Z",
     "utgiver": "Artsdatabanken",
     "url": null,
     "tool": {
       "name": "@artsdatabanken/lastejobb",
-      "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/6768cbc29de8b9be9c2af4a8d3d413feb5c04699"
+      "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/b219fdcc64ca57defd8860f7bac4625708c2657f"
     },
     "elementer": 1,
     "source": [
       {
         "name": "alle",
         "tittel": "Alle",
-        "produsertUtc": "2023-03-24T08:35:29.037Z",
+        "produsertUtc": "2023-03-24T09:30:52.179Z",
         "utgiver": "Artsdatabanken",
         "url": null,
         "tool": {
           "name": "@artsdatabanken/lastejobb",
-          "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/6768cbc29de8b9be9c2af4a8d3d413feb5c04699"
+          "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/b219fdcc64ca57defd8860f7bac4625708c2657f"
         },
         "elementer": 1,
         "source": [
           {
             "name": "autor2kode",
             "tittel": "Autor2kode",
-            "produsertUtc": "2023-03-24T08:35:28.680Z",
+            "produsertUtc": "2023-03-24T09:30:51.800Z",
             "utgiver": "Artsdatabanken",
             "url": null,
             "tool": {
               "name": "@artsdatabanken/lastejobb",
-              "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/6768cbc29de8b9be9c2af4a8d3d413feb5c04699"
+              "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/b219fdcc64ca57defd8860f7bac4625708c2657f"
             },
             "elementer": 0,
             "source": [
               {
                 "name": "inn_kategori.json",
                 "tittel": "Inn kategori",
-                "produsertUtc": "2023-03-24T08:35:28.239Z",
+                "produsertUtc": "2023-03-24T09:30:51.332Z",
                 "utgiver": "Artsdatabanken",
                 "url": null,
                 "tool": {
                   "name": "@artsdatabanken/lastejobb",
-                  "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/6768cbc29de8b9be9c2af4a8d3d413feb5c04699"
+                  "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/b219fdcc64ca57defd8860f7bac4625708c2657f"
                 },
                 "elementer": 0,
                 "source": []
