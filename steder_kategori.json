@@ -1,279 +1,279 @@
 {
   "items": [
     {
-      "id": 231,
+      "id": 233,
       "kode": "SN-B-B-B"
     },
     {
-      "id": 194,
+      "id": 206,
       "kode": "SN-B-B-BO"
     },
     {
-      "id": 86,
+      "id": 114,
       "kode": "SN-B-B-E"
     },
     {
-      "id": 83,
+      "id": 105,
       "kode": "SN-B-B-F"
     },
     {
-      "id": 95,
+      "id": 86,
       "kode": "SN-B-B-G"
     },
     {
-      "id": 221,
+      "id": 118,
       "kode": "SN-B-BS-B"
     },
     {
-      "id": 23,
+      "id": 35,
       "kode": "SN-B-BS-BB"
     },
     {
-      "id": 44,
+      "id": 43,
       "kode": "SN-B-BS-BF"
     },
     {
-      "id": 48,
+      "id": 50,
       "kode": "SN-B-BS-BY"
     },
     {
-      "id": 5,
+      "id": 14,
       "kode": "SN-B-BS-G"
     },
     {
-      "id": 13,
+      "id": 31,
       "kode": "SN-B-BS-H"
     },
     {
-      "id": 261,
+      "id": 252,
       "kode": "SN-B-BS-HB"
     },
     {
-      "id": 123,
+      "id": 84,
       "kode": "SN-B-BS-I"
     },
     {
-      "id": 149,
+      "id": 161,
       "kode": "SN-B-BS-T"
     },
     {
-      "id": 24,
+      "id": 55,
       "kode": "SN-B-BS-TB"
     },
     {
-      "id": 201,
+      "id": 166,
       "kode": "SN-B-BS-TD"
     },
     {
-      "id": 132,
+      "id": 143,
       "kode": "SN-B-BS-TE"
     },
     {
-      "id": 151,
+      "id": 170,
       "kode": "SN-B-BS-TU"
     },
     {
-      "id": 209,
+      "id": 172,
       "kode": "SN-B-F-A"
     },
     {
-      "id": 108,
+      "id": 216,
       "kode": "SN-B-F-B"
     },
     {
-      "id": 245,
+      "id": 168,
       "kode": "SN-B-F-F"
     },
     {
-      "id": 136,
+      "id": 158,
       "kode": "SN-B-F-I"
     },
     {
-      "id": 121,
+      "id": 125,
       "kode": "SN-B-F-IA"
     },
     {
-      "id": 196,
+      "id": 120,
       "kode": "SN-B-F-P"
     },
     {
-      "id": 180,
+      "id": 167,
       "kode": "SN-B-F-S"
     },
     {
-      "id": 46,
+      "id": 19,
       "kode": "SN-B-G-B"
     },
     {
-      "id": 137,
+      "id": 89,
       "kode": "SN-B-G-BF"
     },
     {
-      "id": 79,
+      "id": 100,
       "kode": "SN-B-G-E"
     },
     {
-      "id": 222,
+      "id": 213,
       "kode": "SN-B-G-EI"
     },
     {
-      "id": 78,
+      "id": 80,
       "kode": "SN-B-G-G"
     },
     {
-      "id": 202,
+      "id": 164,
       "kode": "SN-B-G-GJ"
     },
     {
-      "id": 47,
+      "id": 56,
       "kode": "SN-B-G-N"
     },
     {
-      "id": 84,
+      "id": 88,
       "kode": "SN-B-G-S"
     },
     {
-      "id": 230,
+      "id": 217,
       "kode": "SN-B-G-SS"
     },
     {
-      "id": 203,
+      "id": 202,
       "kode": "SN-B-I-B"
     },
     {
-      "id": 265,
+      "id": 231,
       "kode": "SN-B-I-BO"
     },
     {
-      "id": 253,
+      "id": 220,
       "kode": "SN-B-I-F"
     },
     {
-      "id": 246,
+      "id": 236,
       "kode": "SN-B-I-FS"
     },
     {
-      "id": 179,
+      "id": 117,
       "kode": "SN-B-I-H"
     },
     {
-      "id": 190,
+      "id": 219,
       "kode": "SN-B-I-M"
     },
     {
-      "id": 218,
+      "id": 203,
       "kode": "SN-B-I-R"
     },
     {
-      "id": 92,
+      "id": 77,
       "kode": "SN-B-I-S"
     },
     {
-      "id": 178,
+      "id": 177,
       "kode": "SN-B-I-SY"
     },
     {
-      "id": 234,
+      "id": 176,
       "kode": "SN-B-I-U"
     },
     {
-      "id": 212,
+      "id": 199,
       "kode": "SN-B-I-V"
     },
     {
-      "id": 134,
+      "id": 123,
       "kode": "SN-B-N-A"
     },
     {
-      "id": 158,
+      "id": 136,
       "kode": "SN-B-N-C"
     },
     {
-      "id": 185,
+      "id": 147,
       "kode": "SN-B-N-F"
     },
     {
-      "id": 195,
+      "id": 194,
       "kode": "SN-B-N-FO"
     },
     {
-      "id": 119,
+      "id": 138,
       "kode": "SN-B-N-H"
     },
     {
-      "id": 235,
+      "id": 239,
       "kode": "SN-B-N-O"
     },
     {
-      "id": 165,
+      "id": 137,
       "kode": "SN-B-N-P"
     },
     {
-      "id": 189,
+      "id": 124,
       "kode": "SN-B-N-S"
     },
     {
-      "id": 120,
+      "id": 107,
       "kode": "SN-B-N-T"
     },
     {
-      "id": 251,
+      "id": 218,
       "kode": "SN-B-N-V"
     },
     {
-      "id": 130,
+      "id": 116,
       "kode": "SN-F-D-A"
     },
     {
-      "id": 52,
+      "id": 40,
       "kode": "SN-F-F-E"
     },
     {
-      "id": 98,
+      "id": 99,
       "kode": "SN-F-F-H"
     },
     {
-      "id": 142,
+      "id": 103,
       "kode": "SN-F-F-HØ"
     },
     {
-      "id": 90,
+      "id": 91,
       "kode": "SN-F-F-N"
     },
     {
-      "id": 99,
+      "id": 127,
       "kode": "SN-F-F-S"
     },
     {
-      "id": 96,
+      "id": 101,
       "kode": "SN-F-F-ST"
     },
     {
-      "id": 45,
+      "id": 58,
       "kode": "SN-F-F-V"
     },
     {
-      "id": 100,
+      "id": 93,
       "kode": "SN-F-F-Ø"
     },
     {
-      "id": 40,
+      "id": 27,
       "kode": "SN-F-F-ØG"
     },
     {
-      "id": 204,
+      "id": 232,
       "kode": "SN-F-G-B"
     },
     {
-      "id": 170,
+      "id": 190,
       "kode": "SN-F-G-BA"
     },
     {
-      "id": 172,
+      "id": 173,
       "kode": "SN-F-G-G"
     },
     {
-      "id": 133,
+      "id": 179,
       "kode": "SN-F-G-S"
     },
     {
@@ -281,111 +281,111 @@
       "kode": "SN-F-R-B"
     },
     {
-      "id": 63,
+      "id": 61,
       "kode": "SN-F-R-E"
     },
     {
-      "id": 74,
+      "id": 72,
       "kode": "SN-F-R-ES"
     },
     {
-      "id": 65,
+      "id": 70,
       "kode": "SN-F-R-F"
     },
     {
-      "id": 238,
+      "id": 209,
       "kode": "SN-F-R-FA"
     },
     {
-      "id": 135,
+      "id": 210,
       "kode": "SN-F-R-G"
     },
     {
-      "id": 117,
+      "id": 96,
       "kode": "SN-F-R-H"
     },
     {
-      "id": 160,
+      "id": 126,
       "kode": "SN-F-R-K"
     },
     {
-      "id": 50,
+      "id": 21,
       "kode": "SN-F-R-L"
     },
     {
-      "id": 3,
+      "id": 25,
       "kode": "SN-F-R-N"
     },
     {
-      "id": 115,
+      "id": 130,
       "kode": "SN-F-R-O"
     },
     {
-      "id": 69,
+      "id": 73,
       "kode": "SN-F-R-S"
     },
     {
-      "id": 129,
+      "id": 106,
       "kode": "SN-F-S-D"
     },
     {
-      "id": 252,
+      "id": 254,
       "kode": "SN-F-S-DA"
     },
     {
-      "id": 94,
+      "id": 104,
       "kode": "SN-F-S-DAI"
     },
     {
-      "id": 17,
+      "id": 5,
       "kode": "SN-F-S-G"
     },
     {
-      "id": 4,
+      "id": 6,
       "kode": "SN-F-S-GA"
     },
     {
-      "id": 175,
+      "id": 131,
       "kode": "SN-F-S-I"
     },
     {
-      "id": 97,
+      "id": 111,
       "kode": "SN-F-S-P"
     },
     {
-      "id": 10,
+      "id": 36,
       "kode": "SN-F-S-T"
     },
     {
-      "id": 12,
+      "id": 20,
       "kode": "SN-F-S-V"
     },
     {
-      "id": 72,
+      "id": 69,
       "kode": "SN-I-B-B"
     },
     {
-      "id": 173,
+      "id": 122,
       "kode": "SN-I-B-H"
     },
     {
-      "id": 68,
+      "id": 76,
       "kode": "SN-I-B-J"
     },
     {
-      "id": 64,
+      "id": 63,
       "kode": "SN-I-B-JE"
     },
     {
-      "id": 118,
+      "id": 145,
       "kode": "SN-I-B-S"
     },
     {
-      "id": 278,
+      "id": 247,
       "kode": "SN-I-E-K"
     },
     {
-      "id": 274,
+      "id": 270,
       "kode": "SN-I-E-KG"
     },
     {
@@ -393,63 +393,63 @@
       "kode": "SN-I-E-KL"
     },
     {
-      "id": 182,
+      "id": 181,
       "kode": "SN-I-E-KS"
     },
     {
-      "id": 247,
+      "id": 234,
       "kode": "SN-I-E-R"
     },
     {
-      "id": 249,
+      "id": 248,
       "kode": "SN-I-E-V"
     },
     {
-      "id": 187,
+      "id": 175,
       "kode": "SN-I-K-T"
     },
     {
-      "id": 174,
+      "id": 205,
       "kode": "SN-I-L-F"
     },
     {
-      "id": 272,
+      "id": 276,
       "kode": "SN-I-L-H"
     },
     {
-      "id": 211,
+      "id": 226,
       "kode": "SN-I-L-L"
     },
     {
-      "id": 107,
+      "id": 185,
       "kode": "SN-I-N-B"
     },
     {
-      "id": 104,
+      "id": 150,
       "kode": "SN-I-N-F"
     },
     {
-      "id": 147,
+      "id": 191,
       "kode": "SN-I-N-FS"
     },
     {
-      "id": 162,
+      "id": 242,
       "kode": "SN-I-N-J"
     },
     {
-      "id": 164,
+      "id": 169,
       "kode": "SN-I-N-L"
     },
     {
-      "id": 101,
+      "id": 163,
       "kode": "SN-I-N-LA"
     },
     {
-      "id": 260,
+      "id": 268,
       "kode": "SN-I-N-O"
     },
     {
-      "id": 106,
+      "id": 258,
       "kode": "SN-I-N-S"
     },
     {
@@ -457,43 +457,43 @@
       "kode": "SN-I-N-SM"
     },
     {
-      "id": 128,
+      "id": 215,
       "kode": "SN-I-N-SV"
     },
     {
-      "id": 167,
+      "id": 182,
       "kode": "SN-I-N-V"
     },
     {
-      "id": 225,
+      "id": 155,
       "kode": "SN-I-S-A"
     },
     {
-      "id": 110,
+      "id": 79,
       "kode": "SN-I-S-B"
     },
     {
-      "id": 105,
+      "id": 148,
       "kode": "SN-I-S-F"
     },
     {
-      "id": 276,
+      "id": 253,
       "kode": "SN-I-S-FE"
     },
     {
-      "id": 155,
+      "id": 193,
       "kode": "SN-I-S-FS"
     },
     {
-      "id": 157,
+      "id": 151,
       "kode": "SN-I-S-H"
     },
     {
-      "id": 148,
+      "id": 187,
       "kode": "SN-I-S-K"
     },
     {
-      "id": 70,
+      "id": 68,
       "kode": "SN-I-S-KA"
     },
     {
@@ -501,19 +501,19 @@
       "kode": "SN-I-S-M"
     },
     {
-      "id": 150,
+      "id": 132,
       "kode": "SN-I-S-S"
     },
     {
-      "id": 205,
+      "id": 214,
       "kode": "SN-I-S-SH"
     },
     {
-      "id": 237,
+      "id": 201,
       "kode": "SN-I-S-SL"
     },
     {
-      "id": 268,
+      "id": 250,
       "kode": "SN-I-S-U"
     },
     {
@@ -521,27 +521,27 @@
       "kode": "SN-I-SA-B"
     },
     {
-      "id": 181,
+      "id": 198,
       "kode": "SN-I-SA-BS"
     },
     {
-      "id": 76,
+      "id": 74,
       "kode": "SN-I-SA-F"
     },
     {
-      "id": 267,
+      "id": 251,
       "kode": "SN-I-SA-G"
     },
     {
-      "id": 228,
+      "id": 165,
       "kode": "SN-I-SA-K"
     },
     {
-      "id": 73,
+      "id": 75,
       "kode": "SN-I-SA-O"
     },
     {
-      "id": 250,
+      "id": 241,
       "kode": "SN-I-SA-R"
     },
     {
@@ -549,7 +549,7 @@
       "kode": "SN-I-SA-T"
     },
     {
-      "id": 210,
+      "id": 249,
       "kode": "SN-I-SA-V"
     },
     {
@@ -557,7 +557,7 @@
       "kode": "SN-I-V-A"
     },
     {
-      "id": 224,
+      "id": 146,
       "kode": "SN-I-V-AT"
     },
     {
@@ -565,570 +565,570 @@
       "kode": "SN-I-V-B"
     },
     {
-      "id": 143,
+      "id": 195,
       "kode": "SN-I-V-BT"
     },
     {
-      "id": 75,
+      "id": 67,
       "kode": "SN-I-V-F"
     },
     {
-      "id": 169,
+      "id": 183,
       "kode": "SN-I-V-G"
     },
     {
-      "id": 275,
+      "id": 277,
       "kode": "SN-I-V-M"
     },
     {
-      "id": 239,
+      "id": 212,
       "kode": "SN-I-V-P"
     },
     {
-      "id": 61,
+      "id": 64,
       "kode": "SN-I-V-S"
     },
     {
-      "id": 140,
+      "id": 128,
       "kode": "SN-I-V-T"
     },
     {
-      "id": 213,
+      "id": 134,
       "kode": "SN-I-V-TV"
     },
     {
-      "id": 139,
+      "id": 108,
       "kode": "SN-I-V-V"
     },
     {
-      "id": 67,
+      "id": 65,
       "kode": "SN-I-V-VE"
     },
     {
-      "id": 91,
+      "id": 109,
       "kode": "SN-I-V-VK"
     },
     {
-      "id": 233,
+      "id": 224,
       "kode": "SN-I-V-VS"
     },
     {
-      "id": 93,
+      "id": 113,
       "kode": "SN-K-K-A"
     },
     {
-      "id": 199,
+      "id": 227,
       "kode": "SN-K-K-O"
     },
     {
-      "id": 122,
+      "id": 119,
       "kode": "SN-K-K-S"
     },
     {
-      "id": 183,
+      "id": 81,
       "kode": "SN-K-K-U"
     },
     {
-      "id": 214,
+      "id": 160,
       "kode": "SN-K-KI-A"
     },
     {
-      "id": 89,
+      "id": 112,
       "kode": "SN-K-KI-F"
     },
     {
-      "id": 171,
+      "id": 180,
       "kode": "SN-K-KI-G"
     },
     {
-      "id": 87,
+      "id": 141,
       "kode": "SN-K-KI-K"
     },
     {
-      "id": 241,
+      "id": 263,
       "kode": "SN-K-KI-KM"
     },
     {
-      "id": 141,
+      "id": 197,
       "kode": "SN-K-KI-M"
     },
     {
-      "id": 126,
+      "id": 154,
       "kode": "SN-M-B-F"
     },
     {
-      "id": 217,
+      "id": 256,
       "kode": "SN-M-B-S"
     },
     {
-      "id": 80,
+      "id": 95,
       "kode": "SN-M-D-E"
     },
     {
-      "id": 144,
+      "id": 142,
       "kode": "SN-M-D-H"
     },
     {
-      "id": 39,
+      "id": 23,
       "kode": "SN-M-D-J"
     },
     {
-      "id": 168,
+      "id": 162,
       "kode": "SN-M-D-M"
     },
     {
-      "id": 25,
+      "id": 18,
       "kode": "SN-M-D-S"
     },
     {
-      "id": 88,
+      "id": 78,
       "kode": "SN-M-D-U"
     },
     {
-      "id": 188,
+      "id": 156,
       "kode": "SN-M-I-F"
     },
     {
-      "id": 28,
+      "id": 33,
       "kode": "SN-M-I-I"
     },
     {
-      "id": 159,
+      "id": 192,
       "kode": "SN-M-L-E"
     },
     {
-      "id": 216,
+      "id": 144,
       "kode": "SN-M-L-S"
     },
     {
-      "id": 166,
+      "id": 229,
       "kode": "SN-M-L-SO"
     },
     {
-      "id": 109,
+      "id": 90,
       "kode": "SN-M-L-ST"
     },
     {
-      "id": 116,
+      "id": 85,
       "kode": "SN-M-L-U"
     },
     {
-      "id": 152,
+      "id": 98,
       "kode": "SN-M-L-Ø"
     },
     {
-      "id": 102,
+      "id": 159,
       "kode": "SN-M-U-B"
     },
     {
-      "id": 256,
+      "id": 223,
       "kode": "SN-M-U-F"
     },
     {
-      "id": 81,
+      "id": 121,
       "kode": "SN-M-U-G"
     },
     {
-      "id": 206,
+      "id": 115,
       "kode": "SN-M-U-T"
     },
     {
-      "id": 9,
+      "id": 8,
       "kode": "SN-M-V-M"
     },
     {
-      "id": 262,
+      "id": 266,
       "kode": "SN-M-V-V"
     },
     {
-      "id": 77,
+      "id": 110,
       "kode": "SN-M-VE-S"
     },
     {
-      "id": 124,
+      "id": 139,
       "kode": "SN-M-VE-SH"
     },
     {
-      "id": 236,
+      "id": 235,
       "kode": "SN-O-A-A"
     },
     {
-      "id": 193,
+      "id": 189,
       "kode": "SN-O-A-AA"
     },
     {
-      "id": 255,
+      "id": 208,
       "kode": "SN-O-A-F"
     },
     {
-      "id": 227,
+      "id": 240,
       "kode": "SN-O-A-G"
     },
     {
-      "id": 127,
+      "id": 129,
       "kode": "SN-O-A-GM"
     },
     {
-      "id": 177,
+      "id": 178,
       "kode": "SN-O-A-K"
     },
     {
-      "id": 254,
+      "id": 273,
       "kode": "SN-O-A-N"
     },
     {
-      "id": 226,
+      "id": 174,
       "kode": "SN-O-A-P"
     },
     {
-      "id": 27,
+      "id": 28,
       "kode": "SN-O-A-R"
     },
     {
-      "id": 198,
+      "id": 238,
       "kode": "SN-O-A-S"
     },
     {
-      "id": 208,
+      "id": 271,
       "kode": "SN-O-A-SK"
     },
     {
-      "id": 266,
+      "id": 264,
       "kode": "SN-O-A-ST"
     },
     {
-      "id": 273,
+      "id": 278,
       "kode": "SN-O-A-V"
     },
     {
-      "id": 192,
+      "id": 207,
       "kode": "SN-O-V-A"
     },
     {
-      "id": 258,
+      "id": 255,
       "kode": "SN-O-V-F"
     },
     {
-      "id": 176,
+      "id": 196,
       "kode": "SN-O-V-S"
     },
     {
-      "id": 264,
+      "id": 228,
       "kode": "SN-O-V-SF"
     },
     {
-      "id": 163,
+      "id": 267,
       "kode": "SN-O-V-SH"
     },
     {
-      "id": 8,
+      "id": 3,
       "kode": "SN-O-V-V"
     },
     {
-      "id": 244,
+      "id": 237,
       "kode": "SN-S-D-S"
     },
     {
-      "id": 6,
+      "id": 37,
       "kode": "SN-S-F-F"
     },
     {
-      "id": 215,
+      "id": 259,
       "kode": "SN-S-F-FM"
     },
     {
-      "id": 184,
+      "id": 221,
       "kode": "SN-S-F-FS"
     },
     {
-      "id": 263,
+      "id": 275,
       "kode": "SN-S-F-H"
     },
     {
-      "id": 41,
+      "id": 34,
       "kode": "SN-S-F-HO"
     },
     {
-      "id": 16,
+      "id": 15,
       "kode": "SN-S-F-S"
     },
     {
-      "id": 103,
+      "id": 83,
       "kode": "SN-S-G-B"
     },
     {
-      "id": 19,
+      "id": 52,
       "kode": "SN-S-G-G"
     },
     {
-      "id": 153,
+      "id": 211,
       "kode": "SN-S-G-K"
     },
     {
-      "id": 36,
+      "id": 39,
       "kode": "SN-S-G-S"
     },
     {
-      "id": 57,
+      "id": 54,
       "kode": "SN-S-K-E"
     },
     {
-      "id": 20,
+      "id": 41,
       "kode": "SN-S-K-H"
     },
     {
-      "id": 42,
+      "id": 44,
       "kode": "SN-S-K-HG"
     },
     {
-      "id": 54,
+      "id": 46,
       "kode": "SN-S-K-HØ"
     },
     {
-      "id": 37,
+      "id": 38,
       "kode": "SN-S-K-N"
     },
     {
-      "id": 18,
+      "id": 45,
       "kode": "SN-S-K-S"
     },
     {
-      "id": 33,
+      "id": 29,
       "kode": "SN-S-K-SS"
     },
     {
-      "id": 43,
+      "id": 24,
       "kode": "SN-S-K-V"
     },
     {
-      "id": 145,
+      "id": 149,
       "kode": "SN-S-K-VS"
     },
     {
-      "id": 38,
+      "id": 49,
       "kode": "SN-S-K-Ø"
     },
     {
-      "id": 21,
+      "id": 7,
       "kode": "SN-S-K-ØG"
     },
     {
-      "id": 191,
+      "id": 153,
       "kode": "SN-S-S-B"
     },
     {
-      "id": 197,
+      "id": 269,
       "kode": "SN-S-S-BA"
     },
     {
-      "id": 146,
+      "id": 186,
       "kode": "SN-S-S-BS"
     },
     {
-      "id": 240,
+      "id": 257,
       "kode": "SN-S-S-BT"
     },
     {
-      "id": 242,
+      "id": 246,
       "kode": "SN-S-S-E"
     },
     {
-      "id": 223,
+      "id": 225,
       "kode": "SN-S-S-H"
     },
     {
-      "id": 277,
+      "id": 274,
       "kode": "SN-S-S-HS"
     },
     {
-      "id": 220,
+      "id": 260,
       "kode": "SN-S-S-K"
     },
     {
-      "id": 271,
+      "id": 262,
       "kode": "SN-S-S-P"
     },
     {
-      "id": 257,
+      "id": 230,
       "kode": "SN-S-S-R"
     },
     {
-      "id": 156,
+      "id": 188,
       "kode": "SN-S-S-RK"
     },
     {
-      "id": 207,
+      "id": 244,
       "kode": "SN-S-S-RS"
     },
     {
-      "id": 186,
+      "id": 184,
       "kode": "SN-S-S-S"
     },
     {
-      "id": 269,
+      "id": 272,
       "kode": "SN-S-S-U"
     },
     {
-      "id": 85,
+      "id": 135,
       "kode": "SN-T-F-M"
     },
     {
-      "id": 31,
+      "id": 26,
       "kode": "SN-T-F-S"
     },
     {
-      "id": 49,
+      "id": 42,
       "kode": "SN-T-H-B"
     },
     {
-      "id": 229,
+      "id": 171,
       "kode": "SN-T-H-E"
     },
     {
-      "id": 2,
+      "id": 16,
       "kode": "SN-T-H-F"
     },
     {
-      "id": 131,
+      "id": 94,
       "kode": "SN-T-H-FK"
     },
     {
-      "id": 111,
+      "id": 82,
       "kode": "SN-T-H-H"
     },
     {
-      "id": 11,
+      "id": 13,
       "kode": "SN-T-H-HA"
     },
     {
-      "id": 232,
+      "id": 245,
       "kode": "SN-T-H-HAM"
     },
     {
-      "id": 35,
+      "id": 57,
       "kode": "SN-T-H-HØ"
     },
     {
-      "id": 30,
+      "id": 12,
       "kode": "SN-T-H-R"
     },
     {
-      "id": 154,
+      "id": 97,
       "kode": "SN-T-H-T"
     },
     {
-      "id": 32,
+      "id": 10,
       "kode": "SN-T-H-Å"
     },
     {
-      "id": 113,
+      "id": 87,
       "kode": "SN-T-S-B"
     },
     {
-      "id": 7,
+      "id": 11,
       "kode": "SN-T-S-D"
     },
     {
-      "id": 58,
+      "id": 4,
       "kode": "SN-T-S-DF"
     },
     {
-      "id": 22,
+      "id": 47,
       "kode": "SN-T-S-J"
     },
     {
-      "id": 270,
+      "id": 261,
       "kode": "SN-T-S-K"
     },
     {
-      "id": 56,
+      "id": 48,
       "kode": "SN-T-S-S"
     },
     {
-      "id": 138,
+      "id": 140,
       "kode": "SN-T-S-SE"
     },
     {
-      "id": 82,
+      "id": 133,
       "kode": "SN-T-S-SØ"
     },
     {
-      "id": 55,
+      "id": 51,
       "kode": "SN-T-SK-B"
     },
     {
-      "id": 125,
+      "id": 157,
       "kode": "SN-T-SK-F"
     },
     {
-      "id": 259,
+      "id": 265,
       "kode": "SN-T-SK-FV"
     },
     {
-      "id": 34,
+      "id": 22,
       "kode": "SN-T-SK-L"
     },
     {
-      "id": 14,
+      "id": 17,
       "kode": "SN-T-T-F"
     },
     {
-      "id": 26,
+      "id": 9,
       "kode": "SN-T-T-L"
     },
     {
-      "id": 29,
+      "id": 32,
       "kode": "SN-T-T-S"
     },
     {
-      "id": 161,
+      "id": 204,
       "kode": "SN-T-T-V"
     },
     {
-      "id": 15,
+      "id": 30,
       "kode": "SN-T-TD-A"
     },
     {
-      "id": 219,
+      "id": 222,
       "kode": "SN-T-TD-G"
     },
     {
-      "id": 248,
+      "id": 152,
       "kode": "SN-T-TD-GS"
     },
     {
-      "id": 112,
+      "id": 92,
       "kode": "SN-T-TD-H"
     },
     {
-      "id": 114,
+      "id": 102,
       "kode": "SN-T-TD-HE"
     },
     {
-      "id": 51,
+      "id": 2,
       "kode": "SN-T-TD-S"
     }
   ],
   "meta": {
     "tittel": "Steder kategori",
-    "produsertUtc": "2023-03-24T14:36:30.522Z",
+    "produsertUtc": "2023-03-27T06:15:00.498Z",
     "utgiver": "Artsdatabanken",
     "url": null,
     "tool": {
       "name": "@artsdatabanken/lastejobb",
-      "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/5954d1e829ce94aef6d16afeee9e2374565efd1d"
+      "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/e5046461af9bcbabf3ca34bf82003810d6e1d761"
     },
     "elementer": 277,
     "source": [
       {
         "name": "inn_kategori.json",
         "tittel": "Inn kategori",
-        "produsertUtc": "2023-03-24T14:34:56.659Z",
+        "produsertUtc": "2023-03-27T06:13:05.536Z",
         "utgiver": "Artsdatabanken",
         "url": null,
         "tool": {
           "name": "@artsdatabanken/lastejobb",
-          "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/5954d1e829ce94aef6d16afeee9e2374565efd1d"
+          "commit": "https://github.com/Artsdatabanken/stedsnavn-lastejobb/master/e5046461af9bcbabf3ca34bf82003810d6e1d761"
         },
         "elementer": 8,
         "source": []
